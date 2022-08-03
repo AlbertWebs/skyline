@@ -62,10 +62,10 @@
                     <hr>
                     <p>
                         Skyline public relations agency is a public relations consultancy firm that focuses
-on positioning organizations, individual brands and businesses both internally and
-externally in the corporate world. We believe in creating stories that are impossible
-to forget. Relationships that are mutually beneficially to our clients through
-strategic communication and public relations to position brands for success.
+                        on positioning organizations, individual brands and businesses both internally and
+                        externally in the corporate world. We believe in creating stories that are impossible
+                        to forget. Relationships that are mutually beneficially to our clients through
+                        strategic communication and public relations to position brands for success.
                     </p>
                     <!-- Tabs Heading Starts -->
                     <ul class="nav nav-tabs">
@@ -79,7 +79,7 @@ strategic communication and public relations to position brands for success.
                         <div id="mission" class="tab-pane fade in active">
                             <p>
                                 To positively impact and build organizations globally through corporate branding
-in Africa. (Subject to change)
+                  in Africa. (Subject to change)
                             </p>
                         </div>
                         <div id="vision" class="tab-pane fade">
@@ -133,17 +133,19 @@ in Africa. (Subject to change)
             <div class="container">
                 <!-- Main Heading Starts -->
                 <div class="text-center top-text">
-                    <h1><span>Video</span> Promo</h1>
-                    <h4>Made with love for you</h4>
+                    <h1><span>Why</span> Choose US</h1>
                 </div>
                 <!-- Main Heading Ends -->
                 <div class="video-content">
-                    <p class="text-center">See Skyline PR like you've never seen it before! Watch our new promo video,<br> and discover just what an Skyline PR membership can do for you!</p>
-                    <!-- Video Play Starts -->
-                    <div class="magnific-popup-gallery">
-                        <div class="btn-wrapper text-center"><a class="image-wrap mfp-youtube" href="https://www.youtube.com/watch?v=0gv7OC9L2s8"></a></div>
-                    </div>
-                    <!-- Video Play Ends -->
+                    <p class="text-center" style="max-width:650px; margin:0px auto;">At Skyline Public Relations we are passionate and dedicated to creating and
+                        managing corporate relationships for organizations with all their stakeholders. We
+                        are constantly changing and advancing in order to fit in into the ever changing
+                        market space so as to serve our clients in the best possible way.
+                        Skyline Public Relations has the most qualified public relations practitioners with
+                        immense skills and expertise that come in handy in the corporate field. We work to
+                        understand organizations’ goals and craft the best possible plans to be enacted so
+                        as to enable organizations achieve their goals and objectives.</p>
+
                 </div>
             </div>
             <!-- Container Ends -->
@@ -156,7 +158,7 @@ in Africa. (Subject to change)
         <div class="container">
             <!-- Main Heading Starts -->
             <div class="text-center top-text">
-                <h1><span>Our</span> Services</h1>
+                <h1>Center of <span>Excellence</span></h1>
                 <h4>What We Doing</h4>
             </div>
             <!-- Main Heading Starts -->
@@ -256,539 +258,7 @@ in Africa. (Subject to change)
         </div>
     </section>
     <!-- Services Section Ends -->
-    <!-- Testimonials Section Starts -->
-    <section class="testimonials">
-        <div class="section-overlay">
-            <!-- Container Starts -->
-            <div class="container">
-                <!-- Main Heading Starts -->
-                <div class="text-center top-text">
-                    <h1><span>Happy</span> Customers</h1>
-                    <h4>Testimonials</h4>
-                </div>
-                <!-- Main Heading Starts -->
-                <!-- Blockquotes Starts -->
-                <div id="quote-carousel" class="carousel slide" data-ride="carousel">
-                    <!-- Wrapper For Sliders Starts -->
-                    <!-- Indicators Starts -->
-                    <ol class="carousel-indicators">
-                        <li data-target="#quote-carousel" data-slide-to="0" class="active"></li>
-                        <li data-target="#quote-carousel" data-slide-to="1"></li>
-                        <li data-target="#quote-carousel" data-slide-to="2"></li>
-                    </ol>
-                    <!-- Indicators Ends -->
-                    <div class="carousel-inner">
-                        <!-- Quote #1 Starts -->
-                        <div class="item active">
-                            <blockquote>
-                                <img class="img-circle img-responsive" src="{{asset('theme/img/testimonial/client1.jpg')}}" alt="client">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiu nt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptat</p>
-                                <h5>Miss Elina Pool</h5>
-                                <h6>Developer - Adobe</h6>
-                            </blockquote>
-                        </div>
-                        <!-- Quote #1 Ends -->
-                        <!-- Quote #2 Starts -->
-                        <div class="item">
-                            <blockquote>
-                                <img class="img-circle img-responsive" src="{{asset('theme/img/testimonial/client2.jpg')}}" alt="client">
-                                <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu</p>
-                                <h5>Mr. Antoine Varane</h5>
-                                <h6>Manager - Twitter</h6>
-                            </blockquote>
-                        </div>
-                        <!-- Quote #2 Ends -->
-                        <!-- Quote #3 Starts -->
-                        <div class="item">
-                            <blockquote>
-                                <img class="img-circle img-responsive" src="{{asset('theme/img/testimonial/client3.jpg')}}" alt="client">
-                                <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit ess</p>
-                                <h5>Miss Lucy Walker</h5>
-                                <h6>Manager - Envato</h6>
-                            </blockquote>
-                        </div>
-                        <!-- Quote #3 Ends -->
-                    </div>
-                    <!-- Wrapper For Sliders Ends -->
-                </div>
-                <!-- Blockquotes Ends -->
-            </div>
-            <!-- Container Ends -->
-        </div>
-    </section>
-    <!-- Testimonials Section Ends -->
-    <!-- Portfolio Section Starts -->
-    <section class="portfolio">
-        <!-- Container Starts -->
-        <div class="container">
-            <!-- Main Heading Starts -->
-            <div class="text-center top-text">
-                <h1><span>Our</span> Portfolio</h1>
-                <h4>Our latest Works</h4>
-            </div>
-            <!-- Main Heading Starts -->
-            <!-- Divider Starts -->
-            <div class="divider text-center">
-                <span class="outer-line"></span>
-                <span class="fa fa-image" aria-hidden="true"></span>
-                <span class="outer-line"></span>
-            </div>
-            <!-- Divider Ends -->
-            <!-- Filter Wrapper Starts -->
-            <nav>
-                <ul class="simplefilter nav nav-pills">
-                    <!-- Filter Wrapper Items Starts -->
-                    <li class="active" data-filter="all"><i class="fa fa-reorder"></i> All Projects</li>
-                    <li data-filter="1">Images</li>
-                    <li data-filter="2">Videos</li>
-                    <li data-filter="3">External Links</li>
-                    <!-- Filter Wrapper Items Ends -->
-                </ul>
-            </nav>
-            <!-- Filter Wrapper Ends -->
-            <div>
-                <div class="filtr-container">
-                    <!-- Project Starts -->
-                    <div class="col-xs-12 col-sm-4 col-md-4 filtr-item" data-category="1">
-                        <div class="magnific-popup-gallery">
-                            <!-- Thumbnail Starts -->
-                            <figure class="thumbnail thumbnail__portfolio">
-                                <a class="image-wrap" href="img/projects/project-1.jpg')}}" data-gal="magnific-pop-up[image]" title="Image project"><img class="img-responsive" src="{{asset('theme/img/projects/project-1.jpg')}}" alt="Image Project" /><span class="zoom-icon"></span></a>
-                            </figure>
-                            <!-- Thumbnail Ends -->
-                            <!-- Caption Starts -->
-                            <div class="caption">
-                                <a class="title-link" href="image-project.html">
-                                    <h3>Single Image</h3>
-                                </a>
-                                <p>dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi</p>
-                                <a class="custom-button" href="image-project.html">Read More</a>
-                            </div>
-                            <!-- Caption Ends -->
-                        </div>
-                    </div>
-                    <!-- Project Ends -->
-                    <!-- Project Starts -->
-                    <div class="col-xs-12 col-sm-4 col-md-4 filtr-item" data-category="2">
-                        <div class="magnific-popup-gallery">
-                            <!-- Thumbnail Starts -->
-                            <figure class="thumbnail thumbnail__portfolio">
-                                <a class="image-wrap mfp-youtube" href="https://www.youtube.com/watch?v=0gv7OC9L2s8"><img class="img-responsive" src="{{asset('theme/img/projects/project-2.jpg')}}" alt="Gallery project" /><span class="zoom-icon video-icon"></span></a>
-                            </figure>
-                            <!-- Thumbnail Ends -->
-                            <!-- Caption Starts -->
-                            <div class="caption">
-                                <a class="title-link" href="youtube-project.html">
-                                    <h3>Youtube Video</h3>
-                                </a>
-                                <p>dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi</p>
-                                <a class="custom-button" href="youtube-project.html">Read More</a>
-                            </div>
-                            <!-- Caption Ends -->
-                        </div>
-                    </div>
-                    <!-- Project Ends -->
-                    <!-- Project Starts -->
-                    <div class="col-xs-12 col-sm-4 col-md-4 filtr-item" data-category="1">
-                        <div class="magnific-popup-gallery">
-                            <!-- Thumbnail Starts -->
-                            <figure class="thumbnail thumbnail__portfolio">
-                                <a class="image-wrap" href="img/projects/project-3.jpg')}}" data-gal="magnific-pop-up[gallery]" title="Gallery project"><img class="img-responsive" src="{{asset('theme/img/projects/project-3.jpg')}}" alt="Gallery project" /><span class="zoom-icon gallery-icon"></span></a>
-                            </figure>
-                            <a href="img/projects/project-1.jpg')}}" title="Gallery project" data-gal="magnific-pop-up[gallery]" style="display:none;"></a>
-                            <a href="img/projects/project-2.jpg')}}" title="Gallery project" data-gal="magnific-pop-up[gallery]" style="display:none;"></a>
-                            <a href="img/projects/project-3.jpg')}}" title="Gallery project" data-gal="magnific-pop-up[gallery]" style="display:none;"></a>
-                            <a href="img/projects/project-4.jpg')}}" title="Gallery project" data-gal="magnific-pop-up[gallery]" style="display:none;"></a>
-                            <a href="img/projects/project-5.jpg')}}" title="Gallery project" data-gal="magnific-pop-up[gallery]" style="display:none;"></a>
-                            <a href="img/projects/project-6.jpg')}}" title="Gallery project" data-gal="magnific-pop-up[gallery]" style="display:none;"></a>
-                            <!-- Thumbnail Ends -->
-                            <!-- Caption Starts -->
-                            <div class="caption">
-                                <a class="title-link" href="gallery-project.html">
-                                    <h3>Gallery Photos</h3>
-                                </a>
-                                <p>dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi</p>
-                                <a class="custom-button" href="gallery-project.html">Read More</a>
-                            </div>
-                            <!-- Caption Ends -->
-                        </div>
-                    </div>
-                    <!-- Project Ends -->
-                    <!-- Project Starts -->
-                    <div class="col-xs-12 col-sm-4 col-md-4 filtr-item" data-category="3">
-                        <div class="magnific-popup-gallery">
-                            <!-- Thumbnail Starts -->
-                            <figure class="thumbnail thumbnail__portfolio">
-                                <a class="image-wrap" href="image-project.html" title="portfolio"><img class="img-responsive" src="{{asset('theme/img/projects/project-4.jpg')}}" alt="portfolio" /><span class="zoom-icon external-icon"></span></a>
-                            </figure>
-                            <!-- Thumbnail Ends -->
-                            <!-- Caption Starts -->
-                            <div class="caption">
-                                <a class="title-link" href="image-project.html">
-                                    <h3>External Link</h3>
-                                </a>
-                                <p>dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi</p>
-                                <a class="custom-button" href="image-project.html">Read More</a>
-                            </div>
-                            <!-- Caption Ends -->
-                        </div>
-                    </div>
-                    <!-- Project Ends -->
-                    <!-- Project Starts -->
-                    <div class="col-xs-12 col-sm-4 col-md-4 filtr-item" data-category="1">
-                        <div class="magnific-popup-gallery">
-                            <!-- Thumbnail Starts -->
-                            <figure class="thumbnail thumbnail__portfolio">
-                                <a class="image-wrap" href="img/projects/project-5.jpg')}}" data-gal="magnific-pop-up[image]" title="Image project"><img class="img-responsive" src="{{asset('theme/img/projects/project-5.jpg')}}" alt="Image Project" /><span class="zoom-icon"></span></a>
-                            </figure>
-                            <!-- Thumbnail Ends -->
-                            <!-- Caption Starts -->
-                            <div class="caption">
-                                <a class="title-link" href="image-project.html">
-                                    <h3>Single Image</h3>
-                                </a>
-                                <p>dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi</p>
-                                <a class="custom-button" href="image-project.html">Read More</a>
-                            </div>
-                            <!-- Caption Ends -->
-                        </div>
-                    </div>
-                    <!-- Project Ends -->
-                    <!-- Project Starts -->
-                    <div class="col-xs-12 col-sm-4 col-md-4 filtr-item" data-category="2">
-                        <div class="magnific-popup-gallery">
-                            <!-- Thumbnail Starts -->
-                            <figure class="thumbnail thumbnail__portfolio">
-                                <a class="image-wrap mfp-youtube" href="https://www.youtube.com/watch?v=O_C5CN1L3Xo"><img class="img-responsive" src="{{asset('theme/img/projects/project-6.jpg')}}" alt="Gallery project" /><span class="zoom-icon video-icon"></span></a>
-                            </figure>
-                            <!-- Thumbnail Ends -->
-                            <!-- Caption Starts -->
-                            <div class="caption">
-                                <a class="title-link" href="youtube-project.html">
-                                    <h3>Youtube Video</h3>
-                                </a>
-                                <p>dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi</p>
-                                <a class="custom-button" href="youtube-project.html">Read More</a>
-                            </div>
-                            <!-- Caption Ends -->
-                        </div>
-                    </div>
-                    <!-- Project Ends -->
-                    <!-- Project Starts -->
-                    <div class="col-xs-12 col-sm-4 col-md-4 filtr-item" data-category="1">
-                        <div class="magnific-popup-gallery">
-                            <!-- Thumbnail Starts -->
-                            <figure class="thumbnail thumbnail__portfolio">
-                                <a class="image-wrap" href="img/projects/project-7.jpg')}}" data-gal="magnific-pop-up[image]" title="Image project"><img class="img-responsive" src="{{asset('theme/img/projects/project-7.jpg')}}" alt="Image Project" /><span class="zoom-icon"></span></a>
-                            </figure>
-                            <!-- Thumbnail Ends -->
-                            <!-- Caption Starts -->
-                            <div class="caption">
-                                <a class="title-link" href="image-project.html">
-                                    <h3>Single Image</h3>
-                                </a>
-                                <p>dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi</p>
-                                <a class="custom-button" href="image-project.html">Read More</a>
-                            </div>
-                            <!-- Caption Ends -->
-                        </div>
-                    </div>
-                    <!-- Project Ends -->
-                    <!-- Project Starts -->
-                    <div class="col-xs-12 col-sm-4 col-md-4 filtr-item" data-category="2">
-                        <div class="magnific-popup-gallery">
-                            <!-- Thumbnail Starts -->
-                            <figure class="thumbnail thumbnail__portfolio">
-                                <a class="image-wrap mfp-vimeo" href="https://vimeo.com/23534361"><img class="img-responsive" src="{{asset('theme/img/projects/project-8.jpg')}}" alt="Gallery project" /><span class="zoom-icon video-icon"></span></a>
-                            </figure>
-                            <!-- Thumbnail Ends -->
-                            <!-- Caption Starts -->
-                            <div class="caption">
-                                <a class="title-link" href="vimeo-project.html">
-                                    <h3>Vimeo Video</h3>
-                                </a>
-                                <p>dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi</p>
-                                <a class="custom-button" href="vimeo-project.html">Read More</a>
-                            </div>
-                            <!-- Caption Ends -->
-                        </div>
-                    </div>
-                    <!-- Project Ends -->
-                    <!-- Project Starts -->
-                    <div class="col-xs-12 col-sm-4 col-md-4 filtr-item" data-category="1">
-                        <div class="magnific-popup-gallery">
-                            <!-- Thumbnail Starts -->
-                            <figure class="thumbnail thumbnail__portfolio">
-                                <a class="image-wrap" href="img/projects/project-9.jpg')}}" data-gal="magnific-pop-up[gallery]" title="Slider project"><img class="img-responsive" src="{{asset('theme/img/projects/project-9.jpg')}}" alt="Slider project" /><span class="zoom-icon gallery-icon"></span></a>
-                            </figure>
-                            <a href="img/projects/project-1.jpg')}}" title="Gallery project" data-gal="magnific-pop-up[gallery]" style="display:none;"></a>
-                            <a href="img/projects/project-2.jpg')}}" title="Gallery project" data-gal="magnific-pop-up[gallery]" style="display:none;"></a>
-                            <a href="img/projects/project-6.jpg')}}" title="Gallery project" data-gal="magnific-pop-up[gallery]" style="display:none;"></a>
-                            <!-- Thumbnail Ends -->
-                            <!-- Caption Starts -->
-                            <div class="caption">
-                                <a class="title-link" href="slider-project.html">
-                                    <h3>slider project</h3>
-                                </a>
-                                <p>dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi</p>
-                                <a class="custom-button" href="slider-project.html">Read More</a>
-                            </div>
-                            <!-- Caption Ends -->
-                        </div>
-                    </div>
-                    <!-- Project Ends -->
-                </div>
-            </div>
-        </div>
-        <!-- Container Ends -->
-    </section>
-    <!-- Portfolio Section Ends -->
-    <!-- Facts Section Starts -->
-    <section class="facts">
-        <div class="section-overlay">
-            <!-- Container Starts -->
-            <div class="container">
-                <!-- Main Heading Starts -->
-                <div class="text-center top-text">
-                    <h1><span>Cool</span> Facts</h1>
-                    <h4>our numbers</h4>
-                </div>
-                <!-- Main Heading Starts -->
-                <!-- Fact Badges Starts -->
-                <div class="fact-badges">
-                    <div class="row">
-                        <!-- Fact Badge Item Starts -->
-                        <div class="col-md-3 col-sm-6">
-                            <i class="fa fa-briefcase"></i>
-                            <h2>
-                                <span><strong class="badges-counter">76</strong>+</span>
-                            </h2>
-                            <h4>Projects</h4>
-                        </div>
-                        <!-- Fact Badge Item Ends -->
-                        <!-- Fact Badge Item Starts -->
-                        <div class="col-md-3 col-sm-6">
-                            <i class="fa fa-clock-o"></i>
-                            <h2>
-                                <span><strong class="badges-counter">90</strong>+</span>
-                            </h2>
-                            <h4>Hours Work</h4>
-                        </div>
-                        <!-- Fact Badge Item Ends -->
-                        <!-- Fact Badge Item Starts -->
-                        <div class="col-md-3 col-sm-6">
-                            <i class="fa fa-home"></i>
-                            <h2>
-                                <span><strong class="badges-counter">18</strong>+</span>
-                            </h2>
-                            <h4>Offices</h4>
-                        </div>
-                        <!-- Fact Badge Item Ends -->
-                        <!-- Fact Badge Item Starts -->
-                        <div class="col-md-3 col-sm-6">
-                            <i class="fa fa-user"></i>
-                            <h2>
-                                <span><strong class="badges-counter">67</strong>+</span>
-                            </h2>
-                            <h4>Clients</h4>
-                        </div>
-                        <!-- Fact Badge Item Ends -->
-                    </div>
-                </div>
-                <!-- Fact Badges Ends -->
-            </div>
-            <!-- Container Ends -->
-        </div>
-    </section>
-    <!-- facts Section Ends -->
-    <!-- Pricing Starts -->
-    <section class="pricing">
-        <div class="container">
-            <!-- Main Heading Starts -->
-            <div class="text-center top-text">
-                <h1><span>affordable</span> packages</h1>
-                <h4>our prices</h4>
-            </div>
-            <!-- Main Heading Starts -->
-            <!-- Divider Starts -->
-            <div class="divider text-center">
-                <span class="outer-line"></span>
-                <span class="fa fa-dollar" aria-hidden="true"></span>
-                <span class="outer-line"></span>
-            </div>
-            <!-- Divider Ends -->
-            <!-- Section Content Starts -->
-            <div class="row pricing-tables-content">
-                <div class="pricing-container">
-                    <!-- Pricing Switcher Starts -->
-                    <div class="pricing-switcher">
-                        <p>
-                            <input type="radio" name="switch" value="monthly" id="monthly-1" checked>
-                            <label for="monthly-1">MONTHLY</label>
-                            <input type="radio" name="switch" value="yearly" id="yearly-1">
-                            <label for="yearly-1">YEARLY</label>
-                            <span class="switch"></span>
-                        </p>
-                    </div>
-                    <!-- Pricing Switcher Ends -->
-                    <!-- Pricing Tables Starts -->
-                    <ul class="pricing-list bounce-invert">
-                        <li class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-                            <ul class="pricing-wrapper">
-                                <!-- Monthly Pricing Table #1 Starts -->
-                                <li data-type="monthly" class="is-visible">
-                                    <header class="pricing-header">
-                                        <h2>bronze</h2>
-                                        <div class="price-content">
-                                            <span class="currency">$</span>
-                                            <span class="value">100</span>
-                                            <span class="duration">mo</span>
-                                        </div>
-                                    </header>
-                                    <div class="pricing-body">
-                                        <ul class="pricing-features">
-                                            <li><em>1 GB</em> disk space</li>
-                                            <li><em>2</em> email accounts</li>
-                                            <li><em>unlimited</em> subomains</li>
-                                        </ul>
-                                    </div>
-                                    <footer class="pricing-footer">
-                                        <a class="custom-button" href="#">add to cart</a>
-                                    </footer>
-                                </li>
-                                <!-- Monthly Pricing Table #1 Ends -->
-                                <!-- Yearly Pricing Table #1 Starts -->
-                                <li data-type="yearly" class="is-hidden">
-                                    <header class="pricing-header">
-                                        <h2>bronze</h2>
-                                        <div class="price-content">
-                                            <span class="currency">$</span>
-                                            <span class="value">360</span>
-                                            <span class="duration">yr</span>
-                                        </div>
-                                    </header>
-                                    <div class="pricing-body">
-                                        <ul class="pricing-features">
-                                            <li><em>10 GB</em> disk space</li>
-                                            <li><em>100</em> email accounts</li>
-                                            <li><em>unlimited</em> subomains</li>
-                                        </ul>
-                                    </div>
-                                    <footer class="pricing-footer">
-                                        <a class="custom-button" href="#">add to cart</a>
-                                    </footer>
-                                </li>
-                                <!-- Yearly Pricing Table #1 Ends -->
-                            </ul>
-                        </li>
-                        <li class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-                            <ul class="pricing-wrapper">
-                                <!-- Monthly Pricing Table #2 Starts -->
-                                <li data-type="monthly" class="is-visible">
-                                    <header class="pricing-header">
-                                        <h2>silver</h2>
-                                        <div class="price-content">
-                                            <span class="currency">$</span>
-                                            <span class="value">300</span>
-                                            <span class="duration">mo</span>
-                                        </div>
-                                    </header>
-                                    <div class="pricing-body">
-                                        <ul class="pricing-features">
-                                            <li><em>3 GB</em> disk space</li>
-                                            <li><em>5</em> email accounts</li>
-                                            <li><em>unlimited</em> subomains</li>
-                                        </ul>
-                                    </div>
-                                    <footer class="pricing-footer">
-                                        <a class="custom-button" href="#">add to cart</a>
-                                    </footer>
-                                </li>
-                                <!-- Monthly Pricing Table #2 Ends -->
-                                <!-- Yearly Pricing Table #2 Starts -->
-                                <li data-type="yearly" class="is-hidden">
-                                    <header class="pricing-header">
-                                        <h2>silver</h2>
-                                        <div class="price-content">
-                                            <span class="currency">$</span>
-                                            <span class="value">599</span>
-                                            <span class="duration">yr</span>
-                                        </div>
-                                    </header>
-                                    <div class="pricing-body">
-                                        <ul class="pricing-features">
-                                            <li><em>100 GB</em> disk space</li>
-                                            <li><em>unlimited</em> email accounts</li>
-                                            <li><em>unlimited</em> subomains</li>
-                                        </ul>
-                                    </div>
-                                    <footer class="pricing-footer">
-                                        <a class="custom-button" href="#">add to cart</a>
-                                    </footer>
-                                </li>
-                                <!-- Yearly Pricing Table #2 Ends -->
-                            </ul>
-                        </li>
-                        <li class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-                            <ul class="pricing-wrapper">
-                                <!-- Monthly Pricing Table #3 Starts -->
-                                <li data-type="monthly" class="is-visible">
-                                    <div class="badge-popular">
-                                        <span class="popular">POPULAR</span>
-                                    </div>
-                                    <header class="pricing-header">
-                                        <h2>gold</h2>
-                                        <div class="price-content">
-                                            <span class="currency">$</span>
-                                            <span class="value">500</span>
-                                            <span class="duration">mo</span>
-                                        </div>
-                                    </header>
-                                    <div class="pricing-body">
-                                        <ul class="pricing-features">
-                                            <li><em>5 GB</em> disk space</li>
-                                            <li><em>10</em> email accounts</li>
-                                            <li><em>unlimited</em> subomains</li>
-                                        </ul>
-                                    </div>
-                                    <footer class="pricing-footer">
-                                        <a class="custom-button" href="#">add to cart</a>
-                                    </footer>
-                                </li>
-                                <!-- Monthly Pricing Table #3 Ends -->
-                                <!-- Yearly Pricing Table #3 Starts -->
-                                <li data-type="yearly" class="is-hidden">
-                                    <div class="badge-popular">
-                                        <span class="popular">POPULAR</span>
-                                    </div>
-                                    <header class="pricing-header">
-                                        <h2>gold</h2>
-                                        <div class="price-content">
-                                            <span class="currency">$</span>
-                                            <span class="value">899</span>
-                                            <span class="duration">yr</span>
-                                        </div>
-                                    </header>
-                                    <div class="pricing-body">
-                                        <ul class="pricing-features">
-                                            <li><em>unlimited</em> disk space</li>
-                                            <li><em>unlimited</em> email accounts</li>
-                                            <li><em>unlimited</em> subomains</li>
-                                        </ul>
-                                    </div>
-                                    <footer class="pricing-footer">
-                                        <a class="custom-button" href="#">add to cart</a>
-                                    </footer>
-                                </li>
-                                <!-- Yearly Pricing Table #3 Ends -->
-                            </ul>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Pricing Ends -->
+
     <!-- Newsletter Section Starts -->
     <section class="newsletter">
         <div class="section-overlay">
@@ -801,7 +271,7 @@ in Africa. (Subject to change)
                 </div>
                 <!-- Main Heading Ends -->
                 <div class="newsletter-content">
-                    <p class="text-center">Sign up to our newsletter subscription and be the first to know about<br> Important news <span> & </span> Amazing offers <span> & </span>Discounts</p>
+                    <p class="text-center">Sign up to our newsletter subscription and be the first to know about<br> Important news <span> & </span> Related to our services</p>
                     <!-- Newsletter Form Starts -->
                     <form class="form-inputs">
                         <!-- Newsletter Form Input Field Starts -->
@@ -825,134 +295,7 @@ in Africa. (Subject to change)
         </div>
     </section>
     <!-- Newsletter Section Ends -->
-    <!-- Blog Section Starts -->
-    <section class="blog">
-        <!-- Container Starts -->
-        <div class="container">
-            <!-- Main Heading Starts -->
-            <div class="text-center top-text">
-                <h1><span>Blog</span> Posts</h1>
-                <h4>Latest Articles</h4>
-            </div>
-            <!-- Main Heading Starts -->
-            <!-- Divider Starts -->
-            <div class="divider text-center">
-                <span class="outer-line"></span>
-                <span class="fa fa-comments" aria-hidden="true"></span>
-                <span class="outer-line"></span>
-            </div>
-            <!-- Divider Ends -->
-            <div class="row latest-posts-content">
-                <!-- Article Starts -->
-                <div class="col-sm-4 col-md-4 col-xs-12">
-                    <div class="latest-post">
-                        <!-- Featured Image Starts -->
-                        <a class="img-thumb" href="blog-post.html"><img class="img-responsive" src="{{asset('theme/img/blog/blog-post-small-1.jpg')}}" alt="img"></a>
-                        <!-- Featured Image Ends -->
-                        <!-- Article Content Starts -->
-                        <div class="post-body">
-                            <h4 class="post-title">
-                                <a href="blog-post.html">how to be a good freelancer ?</a>
-                            </h4>
-                            <div class="post-text">
-                                <p>incididunt ut labore et dolore magna aliqua. Ut enim aminim veniam, quis nostrud...</p>
-                            </div>
-                        </div>
-                        <!-- Post Date Starts -->
-                        <div class="post-date">
-                            <span>18</span>
-                            <span>AUG</span>
-                        </div>
-                        <!-- Post Date Ends -->
-                        <a class="custom-button" href="blog-post.html">Read more</a>
-                        <!-- Article Content Ends -->
-                    </div>
-                </div>
-                <!-- Article Ends -->
-                <!-- Article Starts -->
-                <div class="col-sm-4 col-md-4 col-xs-12">
-                    <div class="latest-post">
-                        <!-- Featured Image Starts -->
-                        <a class="img-thumb" href="blog-post.html"><img class="img-responsive" src="{{asset('theme/img/blog/blog-post-small-2.jpg')}}" alt="img"></a>
-                        <!-- Featured Image Ends -->
-                        <!-- Article Content Starts -->
-                        <div class="post-body">
-                            <h4 class="post-title">
-                                <a href="blog-post.html">Collaboration with Envato</a>
-                            </h4>
-                            <div class="post-text">
-                                <p>incididunt ut labore et dolore magna aliqua. Ut enim aminim veniam, quis nostrud...</p>
-                            </div>
-                        </div>
-                        <!-- Post Date Starts -->
-                        <div class="post-date">
-                            <span>23</span>
-                            <span>JUN</span>
-                        </div>
-                        <!-- Post Date Ends -->
-                        <a class="custom-button" href="blog-post.html">Read more</a>
-                        <!-- Article Content Ends -->
-                    </div>
-                </div>
-                <!-- Article Ends -->
-                <!-- Article Starts -->
-                <div class="col-sm-4 col-md-4 col-xs-12">
-                    <div class="latest-post">
-                        <!-- Featured Image Starts -->
-                        <a class="img-thumb" href="blog-post.html"><img class="img-responsive" src="{{asset('theme/img/blog/blog-post-small-3.jpg')}}" alt="img"></a>
-                        <!-- Featured Image Ends -->
-                        <!-- Article Content Starts -->
-                        <div class="post-body">
-                            <h4 class="post-title">
-                                <a href="blog-post.html">why themeforest is best ?</a>
-                            </h4>
-                            <div class="post-text">
-                                <p>incididunt ut labore et dolore magna aliqua. Ut enim aminim veniam, quis nostrud...</p>
-                            </div>
-                        </div>
-                        <!-- Post Date Starts -->
-                        <div class="post-date">
-                            <span>01</span>
-                            <span>JAN</span>
-                        </div>
-                        <!-- Post Date Ends -->
-                        <a class="custom-button" href="blog-post.html">Read more</a>
-                        <!-- Article Content Ends -->
-                    </div>
-                </div>
-                <!-- Article Ends -->
-            </div>
-            <!-- Latest Blog Posts Ends -->
-        </div>
-    </section>
-    <!-- Blog Section Ends -->
-    <!-- Call To Action Section Starts -->
-    <section class="call-to-action">
-        <div class="section-overlay">
-            <!-- Container Starts -->
-            <div class="container">
-                <!-- Main Heading Starts -->
-                <div class="text-center top-text">
-                    <h1><span>create</span> account</h1>
-                    <h4>get started absolutely free</h4>
-                </div>
-                <!-- Main Heading Starts -->
-                <!-- Call To Action Starts -->
-                <div class="call-to-action-content">
-                    <ul>
-                        <li>No Credit Card Required</li>
-                        <li>100% Match Deposit Bonus</li>
-                        <li>Monthly Free Files</li>
-                        <li>Daily Newsletter</li>
-                    </ul>
-                    <a class="custom-button" href="register.html">register now</a>
-                </div>
-                <!-- Call To Action Ends -->
-            </div>
-            <!-- Container Ends -->
-        </div>
-    </section>
-    <!-- facts Section Ends -->
+
     <!-- Logos Section Starts -->
     <section class="logos">
         <div class="container">
@@ -964,7 +307,6 @@ in Africa. (Subject to change)
                 <li><img id="codecanyon" src="{{asset('theme/img/logos-slider/codecanyon-dark-background.png')}}" alt="codecanyon"></li>
                 <li><img id="graphicriver" src="{{asset('theme/img/logos-slider/graphicriver-dark-background.png')}}" alt="graphicriver"></li>
                 <li><img id="photodune" src="{{asset('theme/img/logos-slider/photodune-dark-background.png')}}" alt="photodune"></li>
-                <li><img id="themeforest" src="{{asset('theme/img/logos-slider/themeforest-dark-background.png')}}" alt="themeforest"></li>
                 <!-- Logos Items Ends -->
             </ul>
         </div>

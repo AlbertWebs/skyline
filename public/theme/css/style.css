@@ -1094,6 +1094,7 @@ body.double-diagonal section::after {
   position: absolute;
   content: "";
   pointer-events: none;
+  /* border:2px solid #000080; */
 }
 
 body.double-diagonal .about::before,
@@ -2134,7 +2135,7 @@ body.dark .header.header-fixed .logo a img.logo-dark {
 }
 
 
-/* Preloader 
+/* Preloader
 ---------------------------------------- */
 
 .preloader {
@@ -2221,6 +2222,7 @@ body.dark .header.header-fixed .logo a img.logo-dark {
   border-radius: 40px;
   font-size: 14px;
   font-weight: 600;
+  /* border: 2px solid #000080; */
 }
 
 .tp-simpleresponsive .slider-button:before {
@@ -6487,7 +6489,7 @@ body.double-diagonal.portfolio-page .portfolio .container {
   body.double-diagonal .faq .container, body.double-diagonal .terms .container {
     padding: 85px 15px 50px !important;
 }
-  
+
   .header-inner,
   .videopromotion p,
   .newsletter p,
@@ -6791,7 +6793,7 @@ body.double-diagonal.portfolio-page .portfolio .container {
     padding-left: 0;
     padding-right: 0;
   }
-  .portfolio .container, 
+  .portfolio .container,
 	body.double-diagonal .portfolio .container,
 body.skew .portfolio .container,
 body.reversed-skew .portfolio .container,
@@ -6944,4 +6946,13 @@ body.normal .portfolio .container 	{
 
 .dark .white-l {
   display: block;
+}
+
+
+
+
+@media (max-width: 767px) {
+   .about-right-side{
+       display:none;
+   }
 }

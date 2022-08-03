@@ -31,7 +31,7 @@
 
 </head>
 
-<body class="double-diagonals dark">
+<body class="double-diagonal dark">
     <!-- Preloader Starts -->
     <div class="preloader" id="preloader">
         <div class="logopreloader">
@@ -221,6 +221,8 @@
     <script src="{{asset('theme/js/plugins/revolution/js/extensions/revolution.extension.parallax.min.js')}}"></script>
     <script src="{{asset('theme/js/plugins/revolution/js/extensions/revolution.extension.slideanims.min.js')}}"></script>
     <script src="{{asset('theme/js/plugins/revolution/js/extensions/revolution.extension.video.min.js')}}"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyAFnEvJfyoQ8unR5hK1u87h73EdYP46-hE"></script>
+
 
     <!-- Live Style Switcher JS File - only demo -->
     <script src="{{asset('theme/js/styleswitcher.js')}}"></script>
