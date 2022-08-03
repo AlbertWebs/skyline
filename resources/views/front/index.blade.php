@@ -171,90 +171,39 @@
             <!-- Divider Ends -->
             <!-- Services Starts -->
             <div class="row services-box">
+                <?php $Services = DB::table('services')->limit('6')->get(); ?>
+                @foreach ($Services as $item)
                 <!-- Service Item Starts -->
-                <div class="col-lg-4 col-md-6 col-sm-12 services-box-item">
-                    <!-- Service Item Cover Starts -->
-                    <span class="services-box-item-cover fa fa-leaf" data-headline="Creative Solutions"></span>
-                    <!-- Service Item Cover Ends -->
-                    <!-- Service Item Content Starts -->
-                    <div class="services-box-item-content fa fa-leaf">
-                        <h2>Creative Solutions</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu.</p>
-                    </div>
-                    <!-- Service Item Content Ends -->
-                </div>
-                <!-- Service Item Ends -->
+                <div class="col-sm-4 col-md-4 col-xs-12 text-center" style="border:3px solid #daa520; padding:10px; border-radius:10px;">
+                    <div class="latest-post">
+                        <!-- Featured Image Starts -->
+                        <a class="img-thumb" href="{{url('/')}}/center-of-excellence/{{$item->slung}}"><img class="img-responsive" src="{{url('/')}}/uploads/services/blog-post-small-1.jpg" alt="img"></a>
+                        <!-- Featured Image Ends -->
+                        <!-- Article Content Starts -->
+                        <div class="post-body">
+                            <h4 class="post-title" style="min-height:40px;">
+                                <a href="{{url('/')}}/center-of-excellence/{{$item->slung}}">{{$item->title}}</a>
+                            </h4>
+                            <div class="post-text">
+                                <p style="min-height:102px;">
+                                    {{$item->meta}}
+                                </p>
+                            </div>
+                        </div>
 
-                <!-- Service Item Starts -->
-                <div class="col-lg-4 col-md-6 col-sm-12 services-box-item">
-                    <!-- Service Item Cover Starts -->
-                    <span class="services-box-item-cover fa fa-anchor" data-headline="Featured Services"></span>
-                    <!-- Service Item Cover Ends -->
-                    <!-- Service Item Content Starts -->
-                    <div class="services-box-item-content fa fa-anchor">
-                        <h2>Featured Services</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu.</p>
-                    </div>
-                    <!-- Service Item Content Ends -->
-                </div>
-                <!-- Service Item Ends -->
-
-                <!-- Service Item Starts -->
-                <div class="col-lg-4 col-md-6 col-sm-12 services-box-item">
-                    <!-- Service Item Cover Starts -->
-                    <span class="services-box-item-cover fa fa-comments-o" data-headline="Custom Design"></span>
-                    <!-- Service Item Cover Ends -->
-                    <!-- Service Item Content Starts -->
-                    <div class="services-box-item-content fa fa-comments-o">
-                        <h2>Custom Design</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu.</p>
-                    </div>
-                    <!-- Service Item Content Ends -->
-                </div>
-                <!-- Service Item Ends -->
-
-                <!-- Service Item Starts -->
-                <div class="col-lg-4 col-md-6 col-sm-12 services-box-item">
-                    <!-- Service Item Cover Starts -->
-                    <span class="services-box-item-cover fa fa-support" data-headline="Technical Support"></span>
-                    <!-- Service Item Cover Ends -->
-                    <div class="services-box-item-content fa fa-support">
-                        <h2>Technical Support</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu.</p>
+                        <a class="custom-button" href="{{url('/')}}/center-of-excellence/{{$item->slung}}">Learn More</a>
+                        <!-- Article Content Ends -->
                     </div>
                 </div>
                 <!-- Service Item Ends -->
-
-                <!-- Service Item Starts -->
-                <div class="col-lg-4 col-md-6 col-sm-12 services-box-item">
-                    <!-- Service Item Cover Starts -->
-                    <span class="services-box-item-cover fa fa-cogs" data-headline="Responsive Design"></span>
-                    <!-- Service Item Cover Ends -->
-                    <!-- Service Item Content Starts -->
-                    <div class="services-box-item-content fa fa-cogs">
-                        <h2>Responsive Design</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu.</p>
-                    </div>
-                    <!-- Service Item Content Ends -->
-                </div>
-                <!-- Service Item Ends -->
-
-                <!-- Service Item Starts -->
-                <div class="col-lg-4 col-md-6 col-sm-12 services-box-item">
-                    <!-- Service Item Cover Starts -->
-                    <span class="services-box-item-cover fa fa-file-pdf-o" data-headline="Well Documented"></span>
-                    <!-- Service Item Cover Ends -->
-                    <!-- Service Item Content Starts -->
-                    <div class="services-box-item-content fa fa-file-pdf-o">
-                        <h2>Well Documented</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu.</p>
-                    </div>
-                    <!-- Service Item Content Ends -->
-                </div>
-                <!-- Service Item Ends -->
+                @endforeach
 
             </div>
             <!-- Services Ends -->
+
+            <center>
+               <a class="custom-button text-center" href="{{url('/')}}/center-of-excellence">Explore</a>
+            </center>
         </div>
     </section>
     <!-- Services Section Ends -->
