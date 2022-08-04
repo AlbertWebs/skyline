@@ -28,6 +28,26 @@
     <!-- Banner Ends -->
     {{-- Content Start --}}
 
+	<!-- Project Starts -->
+    <section class="project" style="padding: 100px;">
+        <div class="container">
+            <div class="row">
+                <!-- Project Details Starts -->
+                <div class="col-md-12">
+                    <div class="project-details">
+
+                        <hr>
+                        <p>
+                            {!! html_entity_decode($Ser->content, ENT_QUOTES, 'UTF-8') !!}
+                        </p>
+
+                    </div>
+                </div>
+                <!-- Project Details Ends -->
+            </div>
+        </div>
+    </section>
+    <!-- Project Ends -->
 
     {{-- Content Ends --}}
     @endforeach
