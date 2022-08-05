@@ -177,7 +177,7 @@
                     <div class="row">
                         <div class="col-xs-12">
                             <!-- Copyright Text Starts -->
-                            <p class="text-center">Copyright © {{date('Y')}} Skyline PR All Rights Reserved | Powered By <a href="https://designekta.com" target="_blank">Designekta Studio</a></p>
+                            <p class="text-center">Copyright © {{date('Y')}} Skyline PR All Rights Reserved | Powered By <a href="https://designekta.com" target="_blank">Designekta Studios</a></p>
                             <!-- Copyright Text Ends -->
                         </div>
                     </div>
