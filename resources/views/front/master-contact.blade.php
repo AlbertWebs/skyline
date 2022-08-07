@@ -35,7 +35,7 @@
     <!-- Preloader Starts -->
     <div class="preloader" id="preloader">
         <div class="logopreloader">
-            <img src="{{asset('theme/img/styleswitcher/logos/yellow.png')}}" alt="logo-black">
+            <img src="{{url('/')}}/uploads/logo/skylineLogo.png" alt="logo-black">
         </div>
         <div class="loader" id="loader"></div>
     </div>
@@ -50,12 +50,12 @@
                 <nav class="navbar">
                     <!-- Logo Starts -->
                     <div class="logo">
-                        <a data-toggle="collapse" data-target=".navbar-collapse.show" class="navbar-brand" href="index-kenburns.html">
+                        <a data-toggle="collapse" data-target=".navbar-collapse.show" class="navbar-brand" href="{{url('/')}}">
                             <!-- Logo White Starts -->
-                            <img id="logo-light" class="logo-light" src="{{asset('theme/img/styleswitcher/logos/yellow.png')}}" alt="logo-light" />
+                            <img id="logo-light" class="logo-light" src="{{url('/')}}/uploads/logo/skylineLogo.png" alt="logo-light" />
                             <!-- Logo White Ends -->
                             <!-- Logo Black Starts -->
-                            <img id="logo-dark" class="logo-dark" src="{{asset('theme/img/styleswitcher/logos/logos-dark/yellow.png')}}" alt="logo-dark" />
+                            <img id="logo-dark" class="logo-dark" src="{{url('/')}}/uploads/logo/skylineLogo.png" alt="logo-dark" />
                             <!-- Logo Black Ends -->
                         </a>
                     </div>

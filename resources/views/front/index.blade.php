@@ -2,7 +2,7 @@
 
 @section('content')
        <!-- Main Slider Section Starts -->
-       <section class="mainslider" id="mainslider">
+    <section class="mainslider" id="mainslider">
         <!-- Slider Hero Starts -->
         <div class="rev_slider_wrapper fullwidthbanner-container dark-slider" data-alias="vimeo-hero" style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
             <!-- START REVOLUTION SLIDER 5.0.7 fullwidth mode -->
@@ -159,7 +159,7 @@
             <!-- Main Heading Starts -->
             <div class="text-center top-text">
                 <h1>Center of <span>Excellence</span></h1>
-                <h4>What We Doing</h4>
+                <h4>What We Do</h4>
             </div>
             <!-- Main Heading Starts -->
             <!-- Divider Starts -->
