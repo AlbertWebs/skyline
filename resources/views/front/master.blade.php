@@ -19,7 +19,7 @@
     <meta name="twitter:site" content="@skylinePr" />
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="img/favicon.png')}}">
+    <link rel="shortcut icon" href="img/favicon.png">
 
     <!-- Template CSS Files -->
     <link rel="stylesheet" type="text/css" href="{{asset('theme/css/bootstrap.min.css')}}" />

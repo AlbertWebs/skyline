@@ -90,7 +90,7 @@
                         <!-- Email Name Field Ends -->
                         <!-- Submit Button Starts -->
                         <div class="col-sm-6 submit-form">
-                            <button id="form-submit" name="submit" type="submit" class="custom-button" title="Send">Send Message</button>
+                            <button style="color:#23527c" id="form-submit" name="submit" type="submit" class="custom-button" title="Send">Send Message</button>
                         </div>
                         <!-- Submit Button Ends -->
                         <!-- Form Submit Message Starts -->

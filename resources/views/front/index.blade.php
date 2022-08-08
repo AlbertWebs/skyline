@@ -26,7 +26,7 @@
                         <div class="tp-caption NotGeneric-Icon   tp-resizeme rs-parallaxlevel-0" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-68','-68','-68','-68']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-style_hover="cursor:default;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="2000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap;"><i class="pe-7s-refresh"></i>
                         </div>
                         <!-- LAYER NR. 4 -->
-                        <div class="tp-caption" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['150','150','150','150']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power1.easeInOut;" data-style_hover="c:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);" data-transform_in="y:100px;sX:1;sY:1;opacity:0;s:2000;e:Power3.easeInOut;" data-transform_out="y:50px;opacity:0;s:1000;e:Power2.easeInOut;" data-start="750" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-responsive="off" style="z-index: 11; white-space: nowrap;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;"><a href="#about" class="custom-button slider-button scroll-to-target">learn more about us</a></div>
+                        <div class="tp-caption" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['150','150','150','150']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power1.easeInOut;" data-style_hover="c:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);" data-transform_in="y:100px;sX:1;sY:1;opacity:0;s:2000;e:Power3.easeInOut;" data-transform_out="y:50px;opacity:0;s:1000;e:Power2.easeInOut;" data-start="750" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-responsive="off" style="z-index: 11; white-space: nowrap;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;"><a style="color:#23527c" href="#about" class="custom-button slider-button scroll-to-target">learn more about us</a></div>
                     </li>
                     <!-- SLIDE  -->
                 </ul>
@@ -69,7 +69,7 @@
                     </p>
                     <!-- Tabs Heading Starts -->
                     <ul class="nav nav-tabs">
-                        <li class="active"><a data-toggle="tab" href="#mission">Our Mission</a></li>
+                        <li class="active"><a data-toggle="tab" href="#mission" >Our Mission</a></li>
                         <li><a data-toggle="tab" href="#vision">Vision</a></li>
                         <li><a data-toggle="tab" href="#visionT">Long term vision</a></li>
                     </ul>
@@ -100,7 +100,7 @@
                         </div>
                     </div>
                     <!-- Tabs Content Ends -->
-                    <a class="custom-button" href="{{url('/')}}/about-us">Learn more about us</a>
+                    <a style="color:#23527c" class="custom-button" href="{{url('/')}}/about-us">Learn more about us</a>
                 </div>
                 <div class="col-md-6 col-lg-6 about-right-side">
                     <div class="full-image-container hovered">
@@ -191,7 +191,7 @@
                             </div>
                         </div>
 
-                        <a class="custom-button" href="{{url('/')}}/center-of-excellence/{{$item->slung}}">Learn More</a>
+                        <a style="color:#23527c" class="custom-button" href="{{url('/')}}/center-of-excellence/{{$item->slung}}">Learn More</a>
                         <!-- Article Content Ends -->
                     </div>
                 </div>
@@ -202,7 +202,7 @@
             <!-- Services Ends -->
 
             <center>
-               <a class="custom-button text-center" href="{{url('/')}}/center-of-excellence">Explore</a>
+               <a style="color:#23527c; font-weight:700" class="custom-button text-center" href="{{url('/')}}/center-of-excellence">Explore</a>
             </center>
         </div>
     </section>
@@ -234,7 +234,7 @@
                         </div>
                         <!-- Newsletter Form Input Field Ends -->
                         <!-- Newsletter Form Submit Button Starts -->
-                        <button id="submit" name="submit" type="submit" class="custom-button" title="Send">Subscribe Now</button>
+                        <button style="color:#23527c" id="submit" name="submit" type="submit" class="custom-button" title="Send">Subscribe Now</button>
                         <!-- Newsletter Form Submit Button Ends -->
                     </form>
                     <!-- Newsletter Form Ends -->

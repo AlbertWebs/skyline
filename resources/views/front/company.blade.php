@@ -51,7 +51,7 @@
                         </p>
 
 
-                        <a class="custom-button" href="{{url('/')}}/about-us#vision">Vision and Mission</a>
+                        <a style="color:#23527c" class="custom-button" href="{{url('/')}}/about-us#vision">Vision and Mission</a>
                     </div>
                     <div class="col-md-6 col-lg-6 about-right-side">
                         <div class="full-image-container hovered">
@@ -172,7 +172,7 @@
                         </div>
                     </div>
 
-                    <a class="custom-button" href="{{url('/')}}/center-of-excellence/{{$item->slung}}">Learn More</a>
+                    <a style="color:#23527c" class="custom-button" href="{{url('/')}}/center-of-excellence/{{$item->slung}}">Learn More</a>
                     <!-- Article Content Ends -->
                 </div>
             </div>
@@ -183,14 +183,14 @@
         <!-- Services Ends -->
 
         <center>
-            <a class="custom-button text-center" href="{{url('/')}}/center-of-excellence">Explore</a>
+            <a style="color:#23527c" class="custom-button text-center" href="{{url('/')}}/center-of-excellence">Learn More</a>
         </center>
     </div>
     </section>
     <!-- Services Section Ends -->
     <!-- Services Section Ends -->
     <!-- Call To Action Section Starts -->
-    <section class="call-to-action">
+    <section class="call-to-action" id="strategy">
         <div class="section-overlay">
             <!-- Container Starts -->
             <div class="container">
@@ -209,7 +209,7 @@
                         <li>Social Media Marketing</li>
                         <li>digital communication e.g., SEO and websites</li>
                     </ul>
-                    <a class="custom-button" href="tel:+254710266638">Call Us Today</a>
+                    <a style="color:#23527c" class="custom-button" href="tel:+254710760015">Call Us Today</a>
                 </div>
                 <!-- Call To Action Ends -->
             </div>
