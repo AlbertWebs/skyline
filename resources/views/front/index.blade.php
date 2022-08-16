@@ -159,7 +159,7 @@
             <!-- Main Heading Starts -->
             <div class="text-center top-text">
                 <h1>Center of <span>Excellence</span></h1>
-                <h4>What We Do</h4>
+                <h4>A center of Excellence for Public relations</h4>
             </div>
             <!-- Main Heading Starts -->
             <!-- Divider Starts -->
