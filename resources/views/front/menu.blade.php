@@ -3,7 +3,7 @@
     <li class="active"><a href="{{url('/')}}"><i class="fa fa-home"></i> Home</a></li>
     <li><a href="{{url('/')}}/about-us"><i class="fa fa-user"></i> About Us</a></li>
     <li><a href="{{url('/')}}/center-of-excellence"><i class="fa fa-user"></i> Center of Excellence</a></li>
-    <li><a href="{{url('/')}}/about-us#strategy"><i class="fa fa-check-circle "></i> Our Strategy</a></li>
+    <li><a href="{{url('/')}}/about-us#strategy"><i class="fa fa-check-circle "></i> PR strategies</a></li>
     <li><a href="#"><i class="fa fa-edit"></i> News</a></li>
     <li><a href="{{url('/')}}/contact-us"><i class="fa fa-envelope"></i> Contact Us</a></li>
     <li><a href="{{url('/')}}/contact-us"><i class="fa fa-map-marker"></i> Find Us</a></li>

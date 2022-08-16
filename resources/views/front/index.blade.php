@@ -79,7 +79,7 @@
                         <div id="mission" class="tab-pane fade in active">
                             <p>
                                 To positively impact and build organizations globally through corporate branding
-                  in Africa. (Subject to change)
+                  in Africa. 
                             </p>
                         </div>
                         <div id="vision" class="tab-pane fade">
@@ -250,12 +250,8 @@
         <div class="container">
             <ul class="bxslider" id="bxslider">
                 <!-- Logos Items Starts -->
-                <li><img id="3docean" src="{{asset('theme/img/logos-slider/3docean-dark-background.png')}}" alt="3docean"></li>
-                <li><img id="activeden" src="{{asset('theme/img/logos-slider/activeden-dark-background.png')}}" alt="activeden"></li>
-                <li><img id="audiojungle" src="{{asset('theme/img/logos-slider/audiojungle-dark-background.png')}}" alt="audiojungle"></li>
-                <li><img id="codecanyon" src="{{asset('theme/img/logos-slider/codecanyon-dark-background.png')}}" alt="codecanyon"></li>
-                <li><img id="graphicriver" src="{{asset('theme/img/logos-slider/graphicriver-dark-background.png')}}" alt="graphicriver"></li>
-                <li><img id="photodune" src="{{asset('theme/img/logos-slider/photodune-dark-background.png')}}" alt="photodune"></li>
+                <li><img id="3docean" src="{{asset('theme/img/LRI-Secondary-Horz-Color-Mobile.jpg')}}" alt="Living Room Hospital"></li>
+                
                 <!-- Logos Items Ends -->
             </ul>
         </div>
