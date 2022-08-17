@@ -250,8 +250,9 @@
         <div class="container">
             <ul class="bxslider" id="bxslider">
                 <!-- Logos Items Starts -->
-                <li><img id="3docean" src="{{asset('theme/img/LRI-Secondary-Horz-Color-Mobile.jpg')}}" alt="Living Room Hospital"></li>
-                
+                <li><img style="border: 2px solid #fce878" id="3docean" src="{{asset('theme/img/LRI-Secondary-Horz-Color-Mobile.png')}}" alt="Living Room Hospital"></li>
+                <li><img style="border: 2px solid #fce878" id="3docean" src="{{asset('theme/img/IMG-20220816-WA0003-removebg-preview.png')}}" alt="Living Room Hospital"></li>
+                <li><img style="border: 2px solid #fce878" id="3docean" src="{{asset('theme/img/IMG-20220816-WA0004-removebg-preview.png')}}" alt="Living Room Hospital"></li>
                 <!-- Logos Items Ends -->
             </ul>
         </div>
