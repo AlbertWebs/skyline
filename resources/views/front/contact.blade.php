@@ -18,9 +18,9 @@
             <div class="col-md-6 col-sm-6">
                 <div class="info-map-boxes-item fa fa-phone">
                     <h1>Phone & Online</h1>
-                    <p>Phone : +254710266638
-                        <br>Fax : +254710266638
-                        <br><a href="#">hello@skylinepublicrelations.com</a></p>
+                    <p>Phone : +254710760015
+                        <br>Phone : +254710266638
+                        <br><a href="mailto:info@skylinepublicrelations.com">info@skylinepublicrelations.com</a></p>
                 </div>
             </div>
             <!-- Left Info Map Box Ends -->
@@ -29,7 +29,7 @@
                 <div class="info-map-boxes-item fa fa-clock-o">
                     <h1>Working Hours</h1>
                     <p>Monday-Thursday : 08:00–17:00
-                        <br>Friday & Saturday : 08:00–12:30
+                        <br>Saturday : 08:00–12pm
                         <br>Sunday - Closed</p>
                 </div>
             </div>
@@ -51,7 +51,7 @@
             <!-- Main Heading Ends -->
             <div class="form-container">
                 <!-- Contact Form Starts -->
-                <form class="formcontact" method="post" action="https://slimhamdi.net/amira/demos/php/process-form.php">
+                <form class="formcontact" method="post" action="{{url('/')}}">
                     <div class="row form-inputs">
                         <!-- First Name Field Starts -->
                         <div class="col-sm-6 form-group custom-form-group">

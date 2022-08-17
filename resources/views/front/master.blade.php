@@ -137,7 +137,7 @@
                         <h4>Contact US</h4>
                         <div class="menu">
                             <ul>
-                                <li><span><i class="fa fa-envelope-open"></i> <small>hello@skylinepublicrelations.com</small></span></li>
+                                <li><span><i class="fa fa-envelope-open"></i> <small>info@skylinepublicrelations.com</small></span></li>
                                 <li><span><i class="fa fa-phone"></i> 0710760015,0710266638,</span></li>
                                 <li><span><i class="fa fa-map-marker"></i> Kimathi St, Nairobi</span></li>
                                 <li><span><i class="fa fa-clock-o"></i> mon-fri 08am &#x21FE; 05pm</span></li>
