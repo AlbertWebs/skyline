@@ -7,7 +7,9 @@
     <div class="info-map">
         <div class="google-map">
             <div class="gmap_container">
-                <div id="gmap_canvas"></div>
+                <div id="gmap_canvass">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4083624.737387345!2d37.1692338!3d-1.7699422!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc3075faccb42dd3!2sSkyline%20Public%20Relations%20Agency!5e0!3m2!1sen!2ske!4v1660813016897!5m2!1sen!2ske" width="100%" height="850" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
             </div>
         </div>
     </div>
