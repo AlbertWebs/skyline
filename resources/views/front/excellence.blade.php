@@ -83,26 +83,52 @@
         <div class="section-overlay">
             <!-- Container Starts -->
             <div class="container">
-                <!-- Main Heading Starts -->
-                <div class="text-center top-text">
-                    <h1><span>PR</span> Strategies</h1>
-                    {{-- <h4>get started absolutely free</h4> --}}
+                <div class="col-sm-12 col-md-6 col-lg-6">
+                    <!-- Main Heading Starts -->
+                    <div class="text-center top-text">
+                        <h1><span>PR</span> Strategies</h1>
+                        {{-- <h4>get started absolutely free</h4> --}}
+                    </div>
+                    <!-- Main Heading Starts -->
+                    <!-- Call To Action Starts -->
+                    <div class="call-to-action-content">
+                        <ul>
+                            <li>Quality content marketing</li>
+                            <li>Influencer/ Affiliate marketing</li>
+                            <li>Media marketing and advertising</li>
+                            <li>Social Media Marketing</li>
+                            <li>digital communication e.g., SEO and websites</li>
+                        </ul>
+                      
+                    </div>
+                    <!-- Call To Action Ends -->
                 </div>
-                <!-- Main Heading Starts -->
-                <!-- Call To Action Starts -->
-                <div class="call-to-action-content">
-                    <ul>
-                        <li>Quality content marketing</li>
-                        <li>Influencer/ Affiliate marketing</li>
-                        <li>Media marketing and advertising</li>
-                        <li>Social Media Marketing</li>
-                        <li>digital communication e.g., SEO and websites</li>
-                    </ul>
-                    <a style="color:#23527c" class="custom-button" href="tel:+254710760015">Call Us Today</a>
+                <div class="col-sm-12 col-md-6 col-lg-6">
+                    <!-- Main Heading Starts -->
+                    <div class="text-center top-text">
+                        <h1><span>Key </span> to success</h1>
+                        {{-- <h4>get started absolutely free</h4> --}}
+                    </div>
+                    <!-- Main Heading Starts -->
+                    <!-- Call To Action Starts -->
+                    <div class="call-to-action-content">
+                        <ul>
+                            <li>Research and innovation</li>
+                            <li>Creativity</li>
+                            <li>Professionalism</li>
+                            <li>Results</li>
+                        
+                        </ul>
+                        
+                    </div>
+                    <!-- Call To Action Ends -->
                 </div>
-                <!-- Call To Action Ends -->
+                
             </div>
             <!-- Container Ends -->
+            <center>
+               <a style="color:#23527c" class="custom-button" href="tel:+254710760015">Call Us Today</a>
+            </center>
         </div>
     </section>
     <!-- facts Section Ends -->

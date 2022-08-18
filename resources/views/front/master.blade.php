@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Skyline PR - Public Relations Firm In Kenya | Digital Marketing</title>
+    <title>{{$title}} | Skyline PR</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Corporate Branding and Management, Advocacy Communications, Brand Communication and Publicity, Media Relations,
             public relations training and education and More">

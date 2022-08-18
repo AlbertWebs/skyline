@@ -8,41 +8,54 @@ use DB;
 class HomeController extends Controller
 {
     public function index(){
-        return view('front.index');
+        $title = "Skyline PR - Public Relations Firm In Kenya | Digital Marketing";
+        return view('front.index', compact('title'));
     }
 
     public function company(){
-        return view('front.company');
+        $title = "About Skyline PR";
+        return view('front.company', compact('title'));
     }
 
     public function why(){
-        return view('front.why');
+        $title = "Why PR";
+        return view('front.why', compact('title'));
     }
     
     public function contact_us(){
-        return view('front.contact');
+        $title = "Contact Us";
+        return view('front.contact', compact('title'));
     }
 
     public function excellence(){
-        return view('front.excellence');
+        $title = "Center of Excellence";
+        return view('front.excellence', compact('title'));
     }
 
     public function excellences($slung){
+        
         $Service = DB::table('services')->where('slung',$slung)->get();
-        return view('front.excellences', compact('Service'));
+        foreach ($Service as $key => $value) {
+            $title = $value->title;
+            # code...
+            return view('front.excellences', compact('Service','title'));
+        }
     }
 
 
     public function privacy(){
-        return view('front.privacy');
+        $title = "Privacy Policy";
+        return view('front.privacy', compact('title'));
     }
 
     public function terms(){
-        return view('front.terms');
+        $title = "Terms and Conditions";
+        return view('front.terms', compact('title'));
     }
 
     public function copyright(){
-        return view('front.copyright');
+        $title = "Copyright Statement";
+        return view('front.copyright', compact('title'));
     }
 
 }

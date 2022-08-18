@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Skyline PR - Creative Multipurpose Template</title>
+    <title>{{$title}} - Skyline PR</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- Favicon -->
