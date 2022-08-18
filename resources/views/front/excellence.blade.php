@@ -78,4 +78,32 @@
         </div>
     </section>
     <!-- Services Section Ends -->
+       <!-- Call To Action Section Starts -->
+       <section class="call-to-action" id="strategy">
+        <div class="section-overlay">
+            <!-- Container Starts -->
+            <div class="container">
+                <!-- Main Heading Starts -->
+                <div class="text-center top-text">
+                    <h1><span>PR</span> Strategies</h1>
+                    {{-- <h4>get started absolutely free</h4> --}}
+                </div>
+                <!-- Main Heading Starts -->
+                <!-- Call To Action Starts -->
+                <div class="call-to-action-content">
+                    <ul>
+                        <li>Quality content marketing</li>
+                        <li>Influencer/ Affiliate marketing</li>
+                        <li>Media marketing and advertising</li>
+                        <li>Social Media Marketing</li>
+                        <li>digital communication e.g., SEO and websites</li>
+                    </ul>
+                    <a style="color:#23527c" class="custom-button" href="tel:+254710760015">Call Us Today</a>
+                </div>
+                <!-- Call To Action Ends -->
+            </div>
+            <!-- Container Ends -->
+        </div>
+    </section>
+    <!-- facts Section Ends -->
 @endsection

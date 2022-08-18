@@ -45,7 +45,7 @@
             <!-- Main Heading Starts -->
             <div class="text-center top-text">
                 <h1><span>About</span> Us</h1>
-                <h4>Who We Are</h4>
+                <h4>Be part of growth for businesses.</h4>
             </div>
             <!-- Main Heading Ends -->
             <!-- Divider Starts -->
