@@ -6,7 +6,7 @@
    <div class="wrapper">
 
      <!-- Banner Starts -->
-     <section class="banner">
+     <section class="banner" style="background-image: url('{{url('/')}}/uploads/public-relations-3.jpg'); background-size: cover; background-repeat: no-repeat; background-position: center top; background-attachment: fixed;">
         <div class="content text-center">
             <div class="text-center top-text">
                 <!-- Main Heading Starts -->
@@ -158,7 +158,7 @@
             <div class="col-sm-4 col-md-4 col-xs-12 text-center" style="border:3px solid #daa520; padding:10px; border-radius:10px;">
                 <div class="latest-post">
                     <!-- Featured Image Starts -->
-                    <a class="img-thumb" href="{{url('/')}}/center-of-excellence/{{$item->slung}}"><img class="img-responsive" src="{{url('/')}}/uploads/services/blog-post-small-1.jpg" alt="img"></a>
+                    <a class="img-thumb" href="{{url('/')}}/center-of-excellence/{{$item->slung}}"><img class="img-responsive" src="{{url('/')}}/uploads/services/{{$item->image}}" alt="img"></a>
                     <!-- Featured Image Ends -->
                     <!-- Article Content Starts -->
                     <div class="post-body">

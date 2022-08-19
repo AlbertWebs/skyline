@@ -6,7 +6,7 @@
 
 
     <!-- Banner Starts -->
-    <section class="banner">
+    <section class="banner" style="background-image: url('{{url('/')}}/uploads/services/{{$Ser->image}}'); background-size: cover; background-repeat: no-repeat; background-position: center top; background-attachment: fixed;">
         <div class="content text-center">
             <div class="text-center top-text">
                 <!-- Main Heading Starts -->
