@@ -160,16 +160,16 @@
                         <div class="social-icons">
                             <ul class="social">
                                 <li>
-                                    <a class="twitter" href="#" title="twitter"></a>
+                                    <a class="twitter" href="https://twitter.com/pr_skyline" title="twitter"></a>
                                 </li>
                                 <li>
-                                    <a class="facebook" href="#" title="facebook"></a>
+                                    <a class="facebook" href="https://www.facebook.com/skylinepragency/" title="facebook"></a>
                                 </li>
                                 <li>
                                     <a class="google" href="#" title="google"></a>
                                 </li>
                                 <li>
-                                    <a class="instagram" href="#" title="instagram"></a>
+                                    <a class="instagram" href="https://www.instagram.com/skylinepublicrelations/" title="instagram"></a>
                                 </li>
                                 <li>
                                     <a class="linkedin" href="#" title="linkedin"></a>
