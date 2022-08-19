@@ -158,7 +158,7 @@
             <div class="col-sm-4 col-md-4 col-xs-12 text-center" style="border:3px solid #daa520; padding:10px; border-radius:10px;">
                 <div class="latest-post">
                     <!-- Featured Image Starts -->
-                    <a class="img-thumb" href="{{url('/')}}/center-of-excellence/{{$item->slung}}"><img class="img-responsive" src="{{url('/')}}/uploads/services/{{$item->image}}" alt="img"></a>
+                    <a class="img-thumb" href="{{url('/')}}/center-of-excellence/{{$item->slung}}"><img style="min-height:245px;" class="img-responsive" src="{{url('/')}}/uploads/services/{{$item->image}}" alt="img"></a>
                     <!-- Featured Image Ends -->
                     <!-- Article Content Starts -->
                     <div class="post-body">
