@@ -172,7 +172,7 @@
                                     <a class="instagram" href="https://www.instagram.com/skylinepublicrelations/" title="instagram"></a>
                                 </li>
                                 <li>
-                                    <a class="linkedin" href="#" title="linkedin"></a>
+                                    <a class="linkedin" href="https://www.linkedin.com/company/skyline-public-relations-agency/" title="linkedin"></a>
                                 </li>
                                 <li>
                                     <a class="youtube" href="#" title="youtube"></a>
