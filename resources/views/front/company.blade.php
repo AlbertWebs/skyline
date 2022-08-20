@@ -91,7 +91,7 @@
                     <!-- Details Starts -->
                     <div class="col-md-12 col-lg-6 col-lg-offset-1">
                         <h1>Project Manager</h1>
-                        <h3>Ms Ebby Bright Addai</h3>
+                        <h3 style="text-transform: capitalize">Ms Ebby Bright Addai</h3>
                         <p>
                             I am a Certified Marketing, Public Relations Specialist and a Corporate Communication Practitioner who is passionate about marketing communications, brand communications and development as well as corporate Branding. I work with organizations and clients to build a brand that will position the organization's corporate image in the public given the rise in competition between organizations. Enhance its publicity and build its corporate brand while maximizing the digital space as well as the traditional media.
                             <br><br>
