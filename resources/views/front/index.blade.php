@@ -104,7 +104,7 @@
                 </div>
                 <div class="col-md-6 col-lg-6 about-right-side">
                     <div class="full-image-container hovered">
-                        <img class="img-responsive hidden-xs" src="{{asset('theme/img/about.jpg')}}" alt="">
+                        <img class="img-responsive hidden-xs" src="{{asset('theme/img/abouts.jpg')}}" alt="">
                         <div class="full-image-overlay">
                             <h3>Core  <strong>Values</strong></h3>
                             <ul class="list-why-choose-us">
