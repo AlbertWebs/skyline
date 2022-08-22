@@ -64,7 +64,7 @@
                         Skyline public relations agency is a public relations consultancy firm that focuses
                         on positioning organizations, individual brands and businesses both internally and
                         externally in the corporate world. We believe in creating stories that are impossible
-                        to forget. Relationships that are mutually beneficially to our clients through
+                        to forget. Relationships that are beneficial to our clients through
                         strategic communication and public relations to position brands for success.
                     </p>
                     <!-- Tabs Heading Starts -->
