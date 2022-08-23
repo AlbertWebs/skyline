@@ -98,6 +98,8 @@
                             <li>Media marketing and advertising</li>
                             <li>Social Media Marketing</li>
                             <li>digital communication e.g., SEO and websites</li>
+                            <li>Special Events</li>
+                            
                         </ul>
                       
                     </div>
