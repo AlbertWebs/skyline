@@ -61,7 +61,7 @@
                     <h3 class="title-about">WE ARE <strong>Skyline PR</strong></h3>
                     <hr>
                     <p>
-                        Skyline public relations agency is a top leading public relations and corporate branding consultancy firm that focuses on positioning organizations, individuals’ , brands and businesses in the corporate world. We believe in creating compelling stories that are impossible to forget. Relationships that are Mutually beneficial to our client’s through strategic communication and public relations.
+                        Skyline public relations agency is a top leading public relations and corporate branding consultancy firm that focuses on positioning organizations, individuals’ , brands and businesses in the corporate world. We believe in creating compelling stories that are impossible to forget. Relationships that are mutually beneficial to our client’s through strategic communication and public relations.
                     </p>
                     <!-- Tabs Heading Starts -->
                     <ul class="nav nav-tabs">
