@@ -37,7 +37,7 @@
                     <hr>
                     <p>
                         Public Relations provide an opportunity for brands to tell their story and establish
-                        their niche to stand out in the public. PR aims at establishing a mutually beneficial
+                        their niche to stand out in the public. PR is a management communication function aims at establishing a mutually beneficial
                         relationship between the organization and its publics.
                         <br><br>
                         The market of today has shifted from just marketing to a need for organizations to
@@ -113,6 +113,37 @@
                     </p>
                     
                     <a style="color:#23527c" class="custom-button" href="{{url('/')}}/contact-us">Contact Us</a>
+                </div>
+                
+            </div>
+            <!-- About Content Ends -->
+        </div>
+        <!-- Container Ends -->
+    </section>
+    <!-- About Section Ends -->
+     <!-- About Section Starts -->
+     <section class="about">
+        <!-- Container Starts -->
+        <div class="container">
+            <!-- About Content Starts -->
+            <div class="row about-content">
+                <div class="col-sm-12 col-md-12 col-lg-12 about-left-side">
+                    <h3 class="title-about">Business <strong>concept/Niche</strong></h3>
+                    <hr>
+                    <p>
+                        We establish reputations of organizations and relationships between the organizations and its stakeholders while helping organizations achieve value as defined by the target audience drawn from research and market analysis.
+                        <br><br>
+                        Marketing communications helps to analyze the market through identify their needs and how best the organization can work to satisfy their needs. Through strategic communication we work to communicate between organizations and its stakeholders. From time to time the market needs shift from time to time, new needs are established and, in most cases, most organizations are in complete darkness and they experience decline in customers thus most organizations remain stagnant, they fail to grow. We use Strategic communication to undertake intensive research to help organizations or clients understand the changing needs in the market place and how to satisfy the needs and cope with the increasing in competition brought upcoming companies offering the similar needs to the same market.
+                        <br><br>
+                        We also help companies to expand their horizon through increasing customer base through establishing and maintaining relationships with their stakeholders. 
+                        <br><br>
+                        The internal stakeholders play a significant role in internal marketing, they shape the perception of stakeholders towards the organization through first-hand experience on whether they should be associated with organization or not. This matters in building customer or client loyalty which is extremely important given the rising competition.
+                        <br><br>
+                        Organizations today have a responsibility to position themselves in the corporate world to thrive. Through corporate branding we help organizations establish a positive reputation and brand identity.
+                        <br><br>
+                    </p>
+                    
+                    <a style="color:#23527c" class="custom-button" href="{{url('/')}}/center-of-excellence">Center of Excellence</a>
                 </div>
                 
             </div>

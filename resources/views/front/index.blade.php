@@ -61,11 +61,7 @@
                     <h3 class="title-about">WE ARE <strong>Skyline PR</strong></h3>
                     <hr>
                     <p>
-                        Skyline public relations agency is a public relations consultancy firm that focuses
-                        on positioning organizations, individual brands and businesses both internally and
-                        externally in the corporate world. We believe in creating stories that are impossible
-                        to forget. Relationships that are beneficial to our clients through
-                        strategic communication and public relations to position brands for success.
+                        Skyline public relations agency is a top leading public relations and corporate branding consultancy firm that focuses on positioning organizations, individuals’ , brands and businesses in the corporate world. We believe in creating compelling stories that are impossible to forget. Relationships that are Mutually beneficial to our client’s through strategic communication and public relations.
                     </p>
                     <!-- Tabs Heading Starts -->
                     <ul class="nav nav-tabs">
@@ -84,8 +80,8 @@
                         </div>
                         <div id="vision" class="tab-pane fade">
                             <p>
-                                To help brands foster a long term mutually beneficial relationship with their clients
-                                through strategic communication and corporate branding
+                                To help brands foster a long term mutually beneficial relationship with their stakeholders
+                                through strategic communication and PR
                             </p>
                         </div>
                         <div id="visionT" class="tab-pane fade">
@@ -104,7 +100,7 @@
                 </div>
                 <div class="col-md-6 col-lg-6 about-right-side">
                     <div class="full-image-container hovered">
-                        <img class="img-responsive hidden-xs" src="{{asset('theme/img/about.jpg')}}" alt="">
+                        <img class="img-responsive hidden-xs" src="{{asset('theme/img/ICI-Career-in-Public-Relations-and-Media.jpg')}}" alt="">
                         <div class="full-image-overlay">
                             <h3>Core  <strong>Values</strong></h3>
                             <ul class="list-why-choose-us">

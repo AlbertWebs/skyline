@@ -37,17 +37,11 @@
                         <h3 class="title-about">WE ARE <strong>Skyline PR</strong></h3>
                         <hr>
                         <p>
-                            Skyline public relations agency is a public relations consultancy firm that focuses
-                            on positioning organizations, individual brands and businesses both internally and
-                            externally in the corporate world. We believe in creating stories that are impossible
-                            to forget. Relationships that are beneficial to our clients through
-                            strategic communication and public relations to position brands for success.
-                            We are guided by our expertise in research and global market analysis. This
-                            provides us an overview and deeper understanding on the target market needs this
-                            will be interpreted to meet the needs of the market and providing value.
-                            We work with SMEs, NGOs, Business Companies and corporations to establish a
-                            reputable brand and enhance overall organizational success. We also represent
-                            individual brands artists who are looking to create a successful brand.
+                            Skyline public relations agency is a top leading public relations and corporate branding consultancy firm that focuses on positioning organizations, individuals’ , brands and businesses in the corporate world. We believe in creating compelling stories that are impossible to forget. Relationships that are Mutually beneficial to our client’s through strategic communication and public relations.
+<br>
+We are guided by our expertise in research and global market analysis. This gives us an overview and deeper understanding on the target market needs that will be used in integrated marketing and communication strategies.
+<br>
+We work with SMEs, NGOs, Business Companies and corporations to establish a reputable brand and enhance overall organizational success. We also represent individual brands and artists who are looking to create a successful brand.
                         </p>
 
 
