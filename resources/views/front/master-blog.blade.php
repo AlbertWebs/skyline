@@ -4,19 +4,21 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>{{$title}} - Skyline PR</title>
+    
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    @foreach ($Blog as $blog)
+    <title>{{$blog->title}} - Skyline PR</title>
     <meta name="description" content="Corporate Branding and Management, Advocacy Communications, Brand Communication and Publicity, Media Relations,
             public relations training and education and More">
-    <link rel="canonical" href="skylinepublicrelations.com"/>
-    <meta property="og:description" content="Corporate Branding and Management, Advocacy Communications, Brand Communication and Publicity, Media Relations,
-            public relations training and education and More" />
-    <meta property="og:title" content="Skyline PR - Public Relations Firm In Kenya | Digital Marketing" />
+    <link rel="canonical" href="skylinepublicrelations.com/articles/{{$blog->slung}}"/>
+    <meta property="og:description" content="{{$blog->meta}}" />
+    <meta property="og:title" content="{{$blog->title}} - Skyline PR" />
     <meta property="og:type" content="articles" />
-    <meta property="og:url" content="skylinepublicrelations.com" />
-    <meta property="og:image" content="{{url('/')}}/uploads/logo/skylineLogo.png" />
-    <meta name="twitter:title" content="Skyline PR - Public Relations Firm In Kenya | Digital Marketing" />
+    <meta property="og:url" content="skylinepublicrelations.com/articles/{{$blog->slung}}" />
+    <meta property="og:image" content="{{url('/')}}/uploads/blog/{{$blog->image}}" />
+    <meta name="twitter:title" content="{{$blog->title}} - Skyline PR" />
     <meta name="twitter:site" content="@skylinePr" />
+    @endforeach
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="img/favicon.png">
