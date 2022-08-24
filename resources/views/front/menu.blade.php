@@ -4,7 +4,7 @@
     <li><a href="{{url('/')}}/about-us"><i class="fa fa-user"></i> About Us</a></li>
     <li><a href="{{url('/')}}/center-of-excellence"><i class="fa fa-user"></i> Center of Excellence</a></li>
     <li><a href="{{url('/')}}/why-pr"><i class="fa fa-check-circle "></i> Why PR</a></li>
-    <li><a href="#"><i class="fa fa-edit"></i> News</a></li>
+    <li><a href="{{url('/')}}/articles"><i class="fa fa-edit"></i> News</a></li>
     <li><a href="{{url('/')}}/contact-us"><i class="fa fa-envelope"></i> Contact Us</a></li>
     <li><a href="{{url('/')}}/contact-us"><i class="fa fa-map-marker"></i> Find Us</a></li>
     <li><a href="tel:+254710760015"><i class="fa fa-phone"></i> Call Us</a></li>

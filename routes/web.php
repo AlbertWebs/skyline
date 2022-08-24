@@ -19,6 +19,8 @@ Route::get('/contact-us', [App\Http\Controllers\HomeController::class, 'contact_
 Route::get('/center-of-excellence', [App\Http\Controllers\HomeController::class, 'excellence'])->name('excellence');
 Route::get('/center-of-excellence/{slung}', [App\Http\Controllers\HomeController::class, 'excellences'])->name('excellences');
 Route::get('/why-pr', [App\Http\Controllers\HomeController::class, 'why'])->name('why');
+Route::get('/articles', [App\Http\Controllers\HomeController::class, 'articles'])->name('articles');
+Route::get('/articles/{slung}', [App\Http\Controllers\HomeController::class, 'article'])->name('article');
 
 Route::get('/privacy-policy', [App\Http\Controllers\HomeController::class, 'privacy'])->name('privacy-policy');
 Route::get('/terms-and-conditions', [App\Http\Controllers\HomeController::class, 'terms'])->name('terms-and-conditions');

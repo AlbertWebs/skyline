@@ -240,7 +240,7 @@
         </div>
     </section>
     <!-- Newsletter Section Ends -->
-
+  
     <!-- Logos Section Starts -->
     <section class="logos">
         <div class="container">
@@ -254,4 +254,61 @@
         </div>
     </section>
     <!-- Logos Section Ends -->
+    <hr>
+    <!-- Blog Section Starts -->
+    <section class="blog">
+        <!-- Container Starts -->
+        <div class="container">
+            <!-- Main Heading Starts -->
+            <div class="text-center top-text">
+                <h1><span>Blog</span> Posts</h1>
+                <h4>Latest Articles</h4>
+            </div>
+            <!-- Main Heading Starts -->
+            <!-- Divider Starts -->
+            <div class="divider text-center">
+                <span class="outer-line"></span>
+                <span class="fa fa-comments" aria-hidden="true"></span>
+                <span class="outer-line"></span>
+            </div>
+            <!-- Divider Ends -->
+            <div class="row latest-posts-content">
+                <?php
+                     $Blog = DB::table('blogs')->get();    
+                ?>
+                @foreach ($Blog as $blog)
+                    <!-- Article Starts -->
+                <div class="col-sm-4 col-md-4 col-xs-12">
+                    <div class="latest-post">
+                        <!-- Featured Image Starts -->
+                        <a class="img-thumb" href="{{url('/')}}/articles/{{$blog->slung}}">
+                            <img style="border: 2px solid #fce878" class="img-responsive" src="{{url('/')}}/uploads/blog/{{$blog->image}}" alt="img">
+                        </a>
+                        <!-- Featured Image Ends -->
+                        <!-- Article Content Starts -->
+                        <div class="post-body">
+                            <h4 class="post-title">
+                                <a href="{{url('/')}}/articles/{{$blog->slung}}">{{$blog->title}}</a>
+                            </h4>
+                            <div class="post-text">
+                                <p>{{$blog->meta}}</p>
+                            </div>
+                        </div>
+                        <!-- Post Date Starts -->
+                        <div class="post-date" >
+                            <span style="color:#23527c"><?php echo  date("d", strtotime($blog->created_at)); ?></span>
+                            <span style="color:#23527c"><?php echo  date("M", strtotime($blog->created_at)); ?></span>
+                        </div>
+                        <!-- Post Date Ends -->
+                        <a class="custom-button" style="color:#23527c" href="{{url('/')}}/articles/{{$blog->slung}}">Read more</a>
+                        <!-- Article Content Ends -->
+                    </div>
+                </div>
+                <!-- Article Ends -->
+                @endforeach
+            </div>
+            <!-- Latest Blog Posts Ends -->
+        </div>
+    </section>
+    <!-- Blog Section Ends -->
 @endsection

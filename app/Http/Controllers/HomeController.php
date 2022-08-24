@@ -41,6 +41,23 @@ class HomeController extends Controller
             return view('front.excellences', compact('Service','title'));
         }
     }
+    public function articles(){
+        $Blog = DB::table('blogs')->get();
+        $title = "Our Blog";
+        return view('front.articles', compact('title','Blog'));
+    }
+
+    public function article($slung){
+        
+        $Blog = DB::table('blogs')->where('slung',$slung)->get();
+        foreach ($Blog as $key => $value) {
+            $title = $value->title;
+            # code...
+            return view('front.article', compact('Blog','title'));
+        }
+    }
+
+    
 
 
     public function privacy(){
