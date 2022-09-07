@@ -1,6 +1,6 @@
 @extends('front.master')
-
 @section('content')
+
        <!-- Main Slider Section Starts -->
     <section class="mainslider" id="mainslider">
         <!-- Slider Hero Starts -->
