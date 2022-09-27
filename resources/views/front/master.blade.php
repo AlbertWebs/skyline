@@ -17,6 +17,7 @@
     <meta property="og:image" content="{{url('/')}}/uploads/logo/skylineLogo.png" />
     <meta name="twitter:title" content="Skyline PR - Public Relations Firm In Kenya | Digital Marketing" />
     <meta name="twitter:site" content="@skylinePr" />
+    <meta name="google-site-verification" content="oybQVWDBZuuEWNr0zgCeOMqzZMX4nQit_qtAKk6OHBE" />
 
     <!-- Favicon -->
     @include('favicon')
@@ -39,6 +40,7 @@
 
     <!-- Template JS Files -->
     <script src="{{asset('theme/js/modernizr.js')}}"></script>
+
 
 </head>
 
