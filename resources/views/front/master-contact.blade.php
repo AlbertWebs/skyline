@@ -63,10 +63,10 @@
                     <div class="logo">
                         <a data-toggle="collapse" data-target=".navbar-collapse.show" class="navbar-brand" href="{{url('/')}}">
                             <!-- Logo White Starts -->
-                            <img id="logo-light" class="logo-light" src="{{url('/')}}/uploads/logo/skylineLogo.png" alt="logo-light" />
+                            <img id="logo-light" class="logo-light" src="{{url('/')}}/uploads/logo/skylineLogoNew.png" alt="logo-light" />
                             <!-- Logo White Ends -->
                             <!-- Logo Black Starts -->
-                            <img id="logo-dark" class="logo-dark" src="{{url('/')}}/uploads/logo/skylineLogo.png" alt="logo-dark" />
+                            <img id="logo-dark" class="logo-dark" src="{{url('/')}}/uploads/logo/skylineLogoNew.png" alt="logo-dark" />
                             <!-- Logo Black Ends -->
                         </a>
                     </div>
@@ -151,7 +151,7 @@
                         <!-- Facts Starts -->
                         <div class="facts-footer">
                             <p>
-                                Skyline public relations agency is a top leading public relations and corporate branding consultancy firm that focuses on positioning organizations, individuals’ , brands and businesses in the corporate world. We believe in creating compelling stories that are impossible to forget. 
+                                Skyline public relations agency is a top leading public relations and corporate branding consultancy firm that focuses on positioning organizations, individuals’ , brands and businesses in the corporate world. We believe in creating compelling stories that are impossible to forget.
                             </p>
                         </div>
                         <!-- Facts Ends -->

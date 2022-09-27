@@ -1,5 +1,5 @@
 ﻿/*
-Template Name: Amira - Creative Multipurpose Template
+Template Name: Amira - Creative Multipurpose Template Updated To Skyline
 Author: Celtano
 Author URI: http://themeforest.net/user/celtano
 Description: Amira - Creative Multipurpose Template
@@ -1554,7 +1554,7 @@ a:hover {
 
 .header-fixed .logo a {
   height: initial;
-  margin-top: 20px;
+  margin-top: 2px;
   transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
@@ -1595,9 +1595,9 @@ a:hover {
 }
 
 .logo a {
-  width: 150px;
+  width: 180px;
   display: block;
-  margin: 35px 0 0 30px;
+  margin: 5px 0 0 40px;
   transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
