@@ -18,6 +18,15 @@
     <meta name="twitter:title" content="Skyline PR - Public Relations Firm In Kenya | Digital Marketing" />
     <meta name="twitter:site" content="@skylinePr" />
     <meta name="google-site-verification" content="oybQVWDBZuuEWNr0zgCeOMqzZMX4nQit_qtAKk6OHBE" />
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-KEQ3SGRJ9K"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-KEQ3SGRJ9K');
+    </script>
 
     <!-- Favicon -->
     @include('favicon')
