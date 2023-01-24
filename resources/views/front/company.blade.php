@@ -88,11 +88,9 @@ We work with SMEs, NGOs, Business Companies and corporations to establish a repu
                         <h3 style="text-transform: capitalize">Ms Ebby Bright Addai</h3>
                         <h5>An affiliate member of Public relations society of Kenya( PRSK )</h5>
                         <p>
-                            I am a Certified Marketing, Public Relations Specialist and a Corporate Communication Practitioner who is passionate about marketing communications, brand communications and development as well as corporate Branding. I work with organizations and clients to build a brand that will position the organization's corporate image in the public given the rise in competition between organizations. Enhance its publicity and build its corporate brand while maximizing the digital space as well as the traditional media.
-                            <br><br>
-                            I am very well equipped in public speaking, persuasive communications, digital communications, corporate branding, content creation, building relationships with clients, advocacy communications, corporate social responsibility, management communications, crisis and issues management as well as executive marketing.
-                            <br>
-                            I like to describe myself as an intelligent, industrious, goal oriented, a risk taker and well equipped for challenging responsibilities.
+                            I am a Certified Public Relations Specialist and a Corporate Communication Strategist who is passionate about marketing communications, brand communications, and development as well as corporate communications. I specialize in brand publicity and visibility, brand identity, reputation management, crisis management, establishing and maintaining, and stakeholder relationships.  I work with organizations to build a brand that will position the organization's corporate image in the public given the rise in competition between organizations. Through Skyline PR, we are able to build a PR and Communications Strategy for Organizations. We are able to change conversations through PR and change the face of many organizations across Africa.
+<br><br>
+I specialize in Brand Communications and Management( Brand visibility and publicity), Reputation Management, Crisis Communications, Building and maintaining stakeholder relationships, Digital Communications, PR Training, Market Research and analysis, Media Research, Project management, organizational leadership, Strategic Public Relations Planning, CSR and Advocacy Communications.
                         </p>
 
                         <!-- Social Media Starts -->
