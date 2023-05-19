@@ -75,7 +75,7 @@
                         <div id="mission" class="tab-pane fade in active">
                             <p>
                                 To positively impact and build organizations globally through corporate branding
-                  in Africa. 
+                  in Africa.
                             </p>
                         </div>
                         <div id="vision" class="tab-pane fade">
@@ -240,7 +240,7 @@
         </div>
     </section>
     <!-- Newsletter Section Ends -->
-  
+
     <!-- Logos Section Starts -->
     <section class="logos">
         <div class="container">
@@ -249,6 +249,7 @@
                 <li><img style="border: 2px solid #fce878" id="3docean" src="{{asset('theme/img/LRI-Secondary-Horz-Color-Mobile.png')}}" alt="Living Room Hospital"></li>
                 <li><img style="border: 2px solid #fce878" id="3docean" src="{{asset('theme/img/IMG-20220816-WA0003-removebg-preview.png')}}" alt="Living Room Hospital"></li>
                 <li><img style="border: 2px solid #fce878" id="3docean" src="{{asset('theme/img/IMG-20220816-WA0004-removebg-preview.png')}}" alt="Living Room Hospital"></li>
+                <li><img style="border: 2px solid #fce878;min-height:170px" id="3docean"  src="{{asset('theme/img/image-removebg-preview-5.png')}}" alt="Living Room Hospital"></li>
                 <!-- Logos Items Ends -->
             </ul>
         </div>
@@ -274,7 +275,7 @@
             <!-- Divider Ends -->
             <div class="row latest-posts-content">
                 <?php
-                     $Blog = DB::table('blogs')->get();    
+                     $Blog = DB::table('blogs')->get();
                 ?>
                 @foreach ($Blog as $blog)
                     <!-- Article Starts -->

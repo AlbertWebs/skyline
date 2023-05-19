@@ -21,7 +21,7 @@ class HomeController extends Controller
         $title = "Why PR";
         return view('front.why', compact('title'));
     }
-    
+
     public function contact_us(){
         $title = "Contact Us";
         return view('front.contact', compact('title'));
@@ -33,7 +33,7 @@ class HomeController extends Controller
     }
 
     public function excellences($slung){
-        
+
         $Service = DB::table('services')->where('slung',$slung)->get();
         foreach ($Service as $key => $value) {
             $title = $value->title;
@@ -41,6 +41,18 @@ class HomeController extends Controller
             return view('front.excellences', compact('Service','title'));
         }
     }
+
+    public function services($slung){
+
+        $Service = DB::table('cores')->where('slung',$slung)->get();
+        foreach ($Service as $key => $value) {
+            $title = $value->title;
+            # code...
+            return view('front.services', compact('Service','title'));
+        }
+    }
+
+
     public function articles(){
         $Blog = DB::table('blogs')->get();
         $title = "Our Blog";
@@ -48,7 +60,7 @@ class HomeController extends Controller
     }
 
     public function article($slung){
-        
+
         $Blog = DB::table('blogs')->where('slung',$slung)->get();
         foreach ($Blog as $key => $value) {
             $title = $value->title;
@@ -57,7 +69,7 @@ class HomeController extends Controller
         }
     }
 
-    
+
 
 
     public function privacy(){

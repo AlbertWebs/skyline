@@ -1,7 +1,19 @@
 
 <ul class="nav navbar-nav" id="main-navigation">
     <li class="active"><a href="{{url('/')}}"><i class="fa fa-home"></i> Home</a></li>
-    <li><a href="{{url('/')}}/about-us"><i class="fa fa-user"></i> About Us</a></li>
+    {{--  --}}
+    <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> About Us <i class="fa fa-angle-down icon-angle"></i></a>
+        <ul class="dropdown-menu" role="menu">
+            <?php
+               $Cores = DB::table('cores')->get();
+            ?>
+            @foreach ($Cores as $core)
+                <li><a href="{{url('/')}}/services/{{$core->slung}}">{{$core->title}}</a></li>
+            @endforeach
+        </ul>
+    </li>
+    {{--  --}}
     <li><a href="{{url('/')}}/center-of-excellence"><i class="fa fa-user"></i> Center of Excellence</a></li>
     <li><a href="{{url('/')}}/why-pr"><i class="fa fa-check-circle "></i> Why PR</a></li>
     <li><a href="{{url('/')}}/articles"><i class="fa fa-edit"></i> News</a></li>
