@@ -39,9 +39,9 @@
     <link rel="stylesheet" type="text/css" href="{{asset('theme/css/skins/yellow.css')}}" />
 
     <!-- Revolution Slider CSS Files -->
-    <link rel="stylesheet" type="text/css" href="js/plugins/revolution/css/settings.css')}}" />
-    <link rel="stylesheet" type="text/css" href="js/plugins/revolution/css/layers.css')}}" />
-    <link rel="stylesheet" type="text/css" href="js/plugins/revolution/css/navigation.css')}}" />
+    <link rel="stylesheet" type="text/css" href="{{asset('theme/js/plugins/revolution/css/settings.css')}}" />
+    <link rel="stylesheet" type="text/css" href="{{asset('theme/js/plugins/revolution/css/layers.css')}}" />
+    <link rel="stylesheet" type="text/css" href="{{asset('theme/js/plugins/revolution/css/navigation.css')}}" />
 
 
     <link rel="alternate stylesheet" type="text/css" title="yellow" href="{{asset('theme/css/skins/yellow.css')}}" />
