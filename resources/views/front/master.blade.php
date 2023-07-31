@@ -49,6 +49,27 @@
 
     <!-- Template JS Files -->
     <script src="{{asset('theme/js/modernizr.js')}}"></script>
+    <style>
+        @media (max-width: 767px) {
+            .about-right-side{
+                display:none;
+            }
+
+            .tp-caption{
+                    max-width:600px !important;
+                    word-wrap: break-word;
+            }
+
+            .NotGeneric-SubTitle span{
+                /* max-width:200px !important; */
+                text-align:center !important;
+                font-size:25px !important;
+                line-height: 40px;
+                padding: 100px !important;
+                margin: 20px !important;
+            }
+        }
+    </style>
 
 
 </head>

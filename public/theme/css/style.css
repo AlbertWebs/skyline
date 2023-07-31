@@ -6975,6 +6975,7 @@ body.normal .portfolio .container 	{
        text-align:center !important;
        font-size:25px !important;
        line-height: 40px;
-       padding: 100px !important;
+       /* padding: 100px !important; */
+       /* margin: 5px !important; */
    }
 }
