@@ -91,7 +91,7 @@
                         </div>
 
                         <!-- LAYER NR. 2 -->
-                        <div class="tp-caption NotGeneric-SubTitle   tp-resizeme rs-parallaxlevel-0"
+                        <div class="tp-caption NotGeneric-SubTitle   tp-resizeme rs-parallaxlevel-0 mobile-none"
                                     data-x="['center','center','center','center']"
                                     data-hoffset="['0','0','0','0']"
                                     data-y="['middle','middle','middle','middle']"
@@ -176,7 +176,7 @@
                         </div>
 
                         <!-- LAYER NR. 2 -->
-                        <div class="tp-caption NotGeneric-SubTitle   tp-resizeme rs-parallaxlevel-0"
+                        <div class="tp-caption NotGeneric-SubTitle   tp-resizeme rs-parallaxlevel-0 mobile-none"
                                     data-x="['center','center','center','center']"
                                     data-hoffset="['0','0','0','0']"
                                     data-y="['middle','middle','middle','middle']"
@@ -261,7 +261,7 @@
                         </div>
 
                         <!-- LAYER NR. 2 -->
-                        <div class="tp-caption NotGeneric-SubTitle   tp-resizeme rs-parallaxlevel-0"
+                        <div class="tp-caption NotGeneric-SubTitle   tp-resizeme rs-parallaxlevel-0 mobile-none"
                                     data-x="['center','center','center','center']"
                                     data-hoffset="['0','0','0','0']"
                                     data-y="['middle','middle','middle','middle']"
@@ -349,7 +349,7 @@
                         </div>
 
                         <!-- LAYER NR. 2 -->
-                        <div class="tp-caption NotGeneric-SubTitle   tp-resizeme rs-parallaxlevel-0"
+                        <div class="tp-caption NotGeneric-SubTitle   tp-resizeme rs-parallaxlevel-0 mobile-none"
                                     data-x="['center','center','center','center']"
                                     data-hoffset="['0','0','0','0']"
                                     data-y="['middle','middle','middle','middle']"

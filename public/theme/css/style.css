@@ -6977,5 +6977,10 @@ body.normal .portfolio .container 	{
        line-height: 40px;
        /* padding: 100px !important; */
        /* margin: 5px !important; */
+
+   }
+
+   .mobile-none{
+    display: none !important;
    }
 }
