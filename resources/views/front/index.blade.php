@@ -202,8 +202,8 @@
                              <a  href="#about" class="custom-button slider-button scroll-to-target" style="color:#23527c; font-size:19px; display: flex; flex-wrap: wrap !important;">Learn More</a></div>
                     </li>
 
-                     <!-- SLIDE  -->
-                     <li data-index="rs-4" data-transition="zoomin" data-slotamount="7" data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000" data-thumb="{{asset('theme/img/revolution-slider/kenburns/thumb1.jpg')}}" data-rotate="0" data-saveperformance="off" data-title="Ken Burns" data-description="">
+                    <!-- SLIDE  -->
+                    <li data-index="rs-4" data-transition="zoomin" data-slotamount="7" data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000" data-thumb="{{asset('theme/img/revolution-slider/kenburns/thumb1.jpg')}}" data-rotate="0" data-saveperformance="off" data-title="Ken Burns" data-description="">
                         <!-- MAIN IMAGE -->
                         <img alt="" src="{{asset('theme/img/revolution-slider/kenburns/kenburns1.jpg')}}" data-bgposition="center center" data-kenburns="on" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="180" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                         <!-- LAYERS -->
@@ -235,10 +235,29 @@
                         </div>
 
                         <!-- LAYER NR. 2 -->
-                        <div class="tp-caption NotGeneric-SubTitle   tp-resizeme rs-parallaxlevel-0" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['82','82','82','82']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; white-space: nowrap; font-size:25px">
-                            <span>
-                            <center>A brand is what puts you ahead of your competitors</center>
-                            </span>
+                        <div class="tp-caption NotGeneric-SubTitle   tp-resizeme rs-parallaxlevel-0"
+                                    data-x="['center','center','center','center']"
+                                    data-hoffset="['0','0','0','0']"
+                                    data-y="['middle','middle','middle','middle']"
+                                    data-voffset="['82','82','82','82']"
+                                    data-width="100%"
+                                    data-height="100%"
+                                    data-whitespace="wrap"
+                                    data-transform_idle="o:1;"
+                                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
+                                    data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
+                                    data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;"
+                                    data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                                    data-start="1500"
+                                    data-splitin="none"
+                                    data-splitout="none"
+                                    data-responsive_offset="on"
+                                    style="font-size:25px !important; letter-spacing:normal;  text-align:center !important; line-height: 1.5; ">
+                                    <span>
+                                        <center>
+                                            A brand is what puts you ahead of your competitors
+                                        </center>
+                                    </span>
                         </div>
 
                         <!-- LAYER NR. 3 -->
@@ -267,6 +286,8 @@
                              style="z-index: 11; white-space: nowrap;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer; text-transform:capitalize !important">
                              <a  href="#about" class="custom-button slider-button scroll-to-target" style="color:#23527c; font-size:19px; display: flex; flex-wrap: wrap !important;">Learn More</a></div>
                     </li>
+
+
 
 
                      <!-- SLIDE  -->
