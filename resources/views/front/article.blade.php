@@ -9,7 +9,7 @@
                     <!-- Main Heading Starts -->
                     <div class="text-center top-text">
                         <h1>{{$title}}</h1>
-                    </div> 
+                    </div>
                     <!-- Main Heading Ends -->
                     <hr>
                     <!-- Meta Starts -->
@@ -40,7 +40,7 @@
                             <!-- Figure Ends -->
                             <!-- Content Starts -->
                             <p class="content-article">
-                                {!!html_entity_decode($blog->content)!!}    
+                                {!!html_entity_decode($blog->content)!!}
                             </p>
                             <!-- Content Ends -->
                             <!-- Meta Starts -->
@@ -51,7 +51,7 @@
                                 <span><i class="fa fa-link"></i> <a href="{{url('/')}}/articles/{{$blog->slung}}">permalink</a></span> &nbsp;
                             </div>
                             <!-- Meta Ends -->
-                     
+
                         </article>
                         <!-- Article Ends -->
                     </div>

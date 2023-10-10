@@ -40,7 +40,7 @@
                             <a href="{{url('/')}}/center-of-excellence/{{$Ser->slung}}">{{$Ser->title}}</a>
                         </h4>
                         <div class="post-text">
-                            <p>
+                            <p style="list-style: none">
                                 {!! html_entity_decode($Ser->content, ENT_QUOTES, 'UTF-8') !!}
                             </p>
                         </div>

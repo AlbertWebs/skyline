@@ -33,21 +33,34 @@
 
                 <!-- About Content Starts -->
                 <div class="row about-content">
-                    <div class="col-sm-12 col-md-6 col-lg-6 about-left-side">
+                    <div class="col-sm-12 col-md-6 col-lg-12 about-left-side">
                         <h3 class="title-about">WE ARE <strong>Skyline PR</strong></h3>
                         <hr>
                         <p>
-                            Skyline public relations agency is a top leading public relations and corporate branding consultancy firm that focuses on positioning organizations, individuals’ , brands and businesses in the corporate world. We believe in creating compelling stories that are impossible to forget. Relationships that are mutually beneficial to our clients’ through strategic communication and public relations.
-<br>
-We are guided by our expertise in research and global market analysis. This gives us an overview and deeper understanding on the target market needs that will be used in integrated marketing and communication strategies.
-<br>
-We work with SMEs, NGOs, Business Companies and corporations to establish a reputable brand and enhance overall organizational success. We also represent individual brands and artists who are looking to create a successful brand.
+                            Skyline Public Relations and Corporate Communications Agency is a trailblazing leader in the industry, recognized for our unparalleled expertise in shaping compelling narratives that leave an indelible mark. Our core mission revolves around strategically positioning organizations, individuals, brands, and businesses within the ever-evolving corporate landscape. We excel in helping our clients connect authentically with their stakeholders, cultivating lasting relationships that yield mutual benefits. Our unwavering commitment lies in harnessing the profound power of strategic communication and public relations to facilitate success. We are steadfast in our commitment to nurturing enduring relationships built on mutual benefit, underscoring our dedication to harnessing the power of strategic communication and public relations.
+                            <br><br>
+                            We take pride in our exceptional ability to elevate ordinary stories into unforgettable, compelling narratives that resonate with diverse audiences across various platforms. Our approach to public relations is rooted in a profound understanding of the ever-evolving media landscape, enabling us to harness its potential for the advantage of our valued clients. Through innovative strategies, data-driven insights, and an unwavering pursuit of excellence, we continually set new standards, ensuring our clients attain their corporate objectives with resounding success.
+                            <br><br>
+                            At Skyline Public Relations Agency, we don't merely craft stories; we create legacies that endure and thrive in the competitive corporate realm. Our commitment to excellence, unwavering dedication to our clients, and our proficiency in forging meaningful connections through strategic communication set us apart as undisputed industry leaders. Experience the transformative power of Skyline, where communication becomes an art form, and partnerships become powerful catalysts for success. Choose Skyline and elevate your communication strategies to new heights, making a lasting impact in the corporate world.
+
                         </p>
 
 
                         <a style="color:#23527c" class="custom-button" href="{{url('/')}}/about-us#vision">Vision and Mission</a>
                     </div>
-                    <div class="col-md-6 col-lg-6 about-right-side">
+
+                </div>
+                <!-- About Content Ends -->
+            </div>
+            <!-- Container Ends -->
+        </section>
+        <section id="about" class="about">
+            <!-- Container Starts -->
+            <div class="container">
+
+
+
+                    <div class="col-md-6 col-lg-12 about-right-side">
                         <div class="full-image-container hovered">
                             <img class="img-responsive hidden-xs" src="{{asset('theme/img/ICI-Career-in-Public-Relations-and-Media.jpg')}}" alt="">
                             <div class="full-image-overlay">
