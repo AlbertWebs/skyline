@@ -45,7 +45,6 @@
                             </p>
                         </div>
                     </div>
-
                     {{-- <a style="color:#23527c" class="custom-button" href="{{url('/')}}/center-of-excellence/{{$Ser->slung}}">Learn More</a> --}}
                     <!-- Article Content Ends -->
                 </div>
