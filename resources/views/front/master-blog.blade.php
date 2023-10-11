@@ -22,6 +22,7 @@
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="img/favicon.png">
+    @include('favicon')
 
     <!-- Template CSS Files -->
     <link rel="stylesheet" type="text/css" href="{{asset('theme/css/bootstrap.min.css')}}" />
