@@ -99,9 +99,9 @@
                             <li>Social Media Marketing</li>
                             <li>digital communication e.g., SEO and websites</li>
                             <li>Special Events</li>
-                            
+
                         </ul>
-                      
+
                     </div>
                     <!-- Call To Action Ends -->
                 </div>
@@ -119,13 +119,13 @@
                             <li>Creativity</li>
                             <li>Professionalism</li>
                             <li>Results</li>
-                        
+
                         </ul>
-                        
+
                     </div>
                     <!-- Call To Action Ends -->
                 </div>
-                
+
             </div>
             <!-- Container Ends -->
             <center>
