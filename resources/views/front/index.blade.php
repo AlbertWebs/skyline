@@ -218,6 +218,85 @@
         </div>
     </section>
     <!-- Logos Section Ends -->
+    <section class="testimonials">
+        <div class="section-overlay">
+            <!-- Container Starts -->
+            <div class="container">
+                <!-- Main Heading Starts -->
+                <div class="text-center top-text">
+                    <h1><span>Happy</span> Customers</h1>
+                    <h4>Testimonials</h4>
+                </div>
+                <!-- Main Heading Starts -->
+                <!-- Blockquotes Starts -->
+                <div id="quote-carousel" class="carousel slide" data-ride="carousel">
+                    <!-- Wrapper For Sliders Starts -->
+                    <!-- Indicators Starts -->
+                    <ol class="carousel-indicators">
+                        <li data-target="#quote-carousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#quote-carousel" data-slide-to="1"></li>
+                        <li data-target="#quote-carousel" data-slide-to="2"></li>
+                    </ol>
+                    <!-- Indicators Ends -->
+                    <div class="carousel-inner">
+                        <!-- Quote #1 Starts -->
+                        <div class="item active">
+                            <blockquote>
+                                {{-- <img class="img-circle img-responsive" src="img/testimonial/client1.jpg" alt="client"> --}}
+                                <p>The healthcare facility saw a 75% increase in their patients, thanks to Skyline Public Relations services. The team's workflow was great. They facilitated weekly reviews and meetings to track their progress. Their resources showed commitment to providing great services and had excellent teamwork. They also had excellent services and customer care.</p>
+                                <h5> ICT Manager</h5>
+                                <h6>Living Room Hospital</h6>
+                            </blockquote>
+                        </div>
+                        <!-- Quote #1 Ends -->
+                        <!-- Quote #2 Starts -->
+                        <div class="item">
+                            <blockquote>
+                                {{-- <img class="img-circle img-responsive" src="img/testimonial/client2.jpg" alt="client"> --}}
+                                <p>Thanks to the contributions of the Skyline Public Relations team, the client saw a 75% increase in their sales since the beginning of the project. They've gotten a lot of positive feedback on the creativity of their advertisements, which is also what was the most impressive about the vendor. Their commitment to understanding our business needs and doing the necessary research at the start was impressive.</p>
+                                <h5>#</h5>
+                                <h6>Senior Project Developer</h6>
+                            </blockquote>
+                        </div>
+                        <!-- Quote #2 Ends -->
+                        <!-- Quote #3 Starts -->
+                        <div class="item">
+                            <blockquote>
+                                {{-- <img class="img-circle img-responsive" src="img/testimonial/client3.jpg" alt="client"> --}}
+                                <p>Thanks to Skyline Public Relations' efforts, the client received over 300 responses to questionnaires from professionals and collected opinions from contact details. The team efficiently managed the project, which spanned three days and maintained responsive and clear communication throughout</p>
+                                {{-- <h5>Miss Lucy Walker</h5> --}}
+                                <h6>Director - Fundi Technologies  </h6>
+                            </blockquote>
+                        </div>
+
+                        <div class="item">
+                            <blockquote>
+                                {{-- <img class="img-circle img-responsive" src="img/testimonial/client3.jpg" alt="client"> --}}
+                                <p>Skyline Public Relations has helped the client boost their brand visibility and online presence. The service provider suggests good ideas, preempts issues, and charges the client reasonably. Moreover, they are always available and promptly respond to the client's queries and concerns.They are quick and prompt in responding to items and assignments requiring their input</p>
+                                <h5> Investment firm Director</h5>
+                                <h6>Redmark  </h6>
+                            </blockquote>
+                        </div>
+
+                        <div class="item">
+                            <blockquote>
+                                {{-- <img class="img-circle img-responsive" src="img/testimonial/client3.jpg" alt="client"> --}}
+                                <p>Working with the Skyline Team has been a game-changer for our company. Their team's dedication to building strong relationships with key media outlets and influencers has elevated our brand's visibility and credibility in ways we couldn't have achieved on our own. Their strategic approach, personalized pitches, and seamless communication have not only secured us valuable media coverage but also helped us navigate complex PR challenges with ease. Skyline PR doesn't just deliver results; they deliver a partnership built on trust and expertise. We couldn't be happier with the outstanding media relations services they provide, and we highly recommend them to anyone looking to make a lasting impact in the media landscape.</p>
+                                <h5> Management Specialist </h5>
+                                <h6>Kenya Industrialization Board  </h6>
+                            </blockquote>
+                        </div>
+
+
+                        <!-- Quote #3 Ends -->
+                    </div>
+                    <!-- Wrapper For Sliders Ends -->
+                </div>
+                <!-- Blockquotes Ends -->
+            </div>
+            <!-- Container Ends -->
+        </div>
+    </section>
     <hr>
     <!-- Blog Section Starts -->
     <section class="blog">
