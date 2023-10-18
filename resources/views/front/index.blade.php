@@ -236,6 +236,11 @@
                         <li data-target="#quote-carousel" data-slide-to="0" class="active"></li>
                         <li data-target="#quote-carousel" data-slide-to="1"></li>
                         <li data-target="#quote-carousel" data-slide-to="2"></li>
+                        <li data-target="#quote-carousel" data-slide-to="3"></li>
+                        <li data-target="#quote-carousel" data-slide-to="4"></li>
+                        <li data-target="#quote-carousel" data-slide-to="5"></li>
+                        <li data-target="#quote-carousel" data-slide-to="6"></li>
+                        <li data-target="#quote-carousel" data-slide-to="7"></li>
                     </ol>
                     <!-- Indicators Ends -->
                     <div class="carousel-inner">
@@ -284,6 +289,42 @@
                                 <p>Working with the Skyline Team has been a game-changer for our company. Their team's dedication to building strong relationships with key media outlets and influencers has elevated our brand's visibility and credibility in ways we couldn't have achieved on our own. Their strategic approach, personalized pitches, and seamless communication have not only secured us valuable media coverage but also helped us navigate complex PR challenges with ease. Skyline PR doesn't just deliver results; they deliver a partnership built on trust and expertise. We couldn't be happier with the outstanding media relations services they provide, and we highly recommend them to anyone looking to make a lasting impact in the media landscape.</p>
                                 <h5> Management Specialist </h5>
                                 <h6>Kenya Industrialization Board  </h6>
+                            </blockquote>
+                        </div>
+
+
+
+                        <div class="item">
+                            <blockquote>
+                                {{-- <img class="img-circle img-responsive" src="img/testimonial/client3.jpg" alt="client"> --}}
+                                <p>
+                                    Exceptional brand positioning is the cornerstone of our success, and we owe it all to Skyline PR. Their innovative approach to understanding our unique identity and market landscape allowed us to carve out a distinct niche and connect with our target audience like never before. Their team's strategic insights, unwavering dedication, and keen eye for detail transformed our brand into a powerful, resonant force in our industry. Thanks to the Skyline PR team, we're not just service; we're a brand that truly stands out and leaves a lasting impression. We couldn't be more thrilled with the results and the ongoing partnership!
+                                </p>
+                                <h5> Director </h5>
+                                <h6> Metsline Tours and Travel  </h6>
+                            </blockquote>
+                        </div>
+
+
+                        <div class="item">
+                            <blockquote>
+                                {{-- <img class="img-circle img-responsive" src="img/testimonial/client3.jpg" alt="client"> --}}
+                                <p>
+                                    Working with Skyline PR has been a game-changer for our fashion brand's positioning in the market. Their strategic insight and creative approach have not only elevated our brand image but also significantly improved our market presence. The team's deep understanding of the fashion industry, combined with their relentless dedication, has resulted in a brand positioning that truly resonates with our target audience. Skyline PR has not only met but exceeded our expectations, and we couldn't be happier with the results. They have become an indispensable partner in our journey towards fashion excellence.
+                                </p>
+                                <h5> Director </h5>
+                                <h6>Nairobi Bespoke Tailoring  </h6>
+                            </blockquote>
+                        </div>
+
+                        <div class="item">
+                            <blockquote>
+                                {{-- <img class="img-circle img-responsive" src="img/testimonial/client3.jpg" alt="client"> --}}
+                                <p>
+                                    Skyline PR has been an invaluable partner in helping our IT company establish a distinctive brand positioning in a crowded marketplace. Their strategic expertise, coupled with a deep understanding of our industry, has allowed us to craft a unique identity that truly resonates with our target audience. The team at Skyline PR is not just a service provider; they are trusted advisors who go above and beyond to ensure our brand stands out and thrives. Thanks to their unwavering support, our company has achieved remarkable success in a short span of time, and we couldn't be happier with the results
+                                </p>
+                                <h5> Director </h5>
+                                <h6> Ascend Tech House  </h6>
                             </blockquote>
                         </div>
 
