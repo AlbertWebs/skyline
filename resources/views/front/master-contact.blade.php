@@ -4,18 +4,18 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>{{$title}} - Skyline PR and Corporate communications  Agency</title>
+    <title>{{$title}} - Skyline Pr And Consultancy</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Corporate Branding and Management, Advocacy Communications, Brand Communication and Publicity, Media Relations,
             public relations training and education and More">
     <link rel="canonical" href="skylinepublicrelations.com"/>
     <meta property="og:description" content="Corporate Branding and Management, Advocacy Communications, Brand Communication and Publicity, Media Relations,
             public relations training and education and More" />
-    <meta property="og:title" content="Skyline PR and Corporate communications  Agency - Public Relations Firm In Kenya | Digital Marketing" />
+    <meta property="og:title" content="Skyline Pr And Consultancy - Public Relations Firm In Kenya | Digital Marketing" />
     <meta property="og:type" content="articles" />
     <meta property="og:url" content="skylinepublicrelations.com" />
     <meta property="og:image" content="{{url('/')}}/uploads/logo/skylineLogo.png" />
-    <meta name="twitter:title" content="Skyline PR and Corporate communications  Agency - Public Relations Firm In Kenya | Digital Marketing" />
+    <meta name="twitter:title" content="Skyline Pr And Consultancy - Public Relations Firm In Kenya | Digital Marketing" />
     <meta name="twitter:site" content="@skylinePr" />
 
     <!-- Favicon -->
@@ -108,7 +108,7 @@
                 <div class="row">
                     <!-- Footer Widget Starts -->
                     <div class="col-xs-6 col-sm-4 col-md-2">
-                        <h4>Skyline PR and Corporate communications  Agency</h4>
+                        <h4>Skyline Pr And Consultancy</h4>
                         <div class="menu">
                             <ul>
                                 <li><a href="{{url('/')}}">Home</a></li>
@@ -188,7 +188,7 @@
                     <div class="row">
                         <div class="col-xs-12">
                             <!-- Copyright Text Starts -->
-                            <p class="text-center">Copyright © {{date('Y')}} Skyline PR and Corporate communications  Agency All Rights Reserved | Powered By <a href="https://designekta.com" target="_blank">Designekta Studios</a></p>
+                            <p class="text-center">Copyright © {{date('Y')}} Skyline Pr And Consultancy All Rights Reserved | Powered By <a href="https://designekta.com" target="_blank">Designekta Studios</a></p>
                             <!-- Copyright Text Ends -->
                         </div>
                     </div>

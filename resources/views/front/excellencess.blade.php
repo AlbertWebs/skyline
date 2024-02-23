@@ -7,14 +7,14 @@
             <div class="text-center top-text">
                 <!-- Main Heading Starts -->
                 <div class="text-center top-text">
-                    <h1>Center of Excellence</h1>
+                    <h1> Pr And Communication Services </h1>
                 </div>
                 <!-- Main Heading Ends -->
                 <hr>
                 <!-- Breadcrumb Starts -->
                 <ul class="breadcrumb">
                     <li><a href="{{url('/')}}"> home</a></li>
-                    <li>Center of Excellence</li>
+                    <li> Pr And Communication Services </li>
                 </ul>
                 <!-- Breadcrumb Ends -->
             </div>
@@ -58,7 +58,7 @@
                                 <a href="{{url('/')}}/center-of-excellence/{{$item->slung}}">{{$item->title}}</a>
                             </h4>
                             <div class="post-text">
-                                <p style="min-height:102px;">
+                                <p style="min-height:150px;">
                                     {{$item->meta}}
                                 </p>
                             </div>

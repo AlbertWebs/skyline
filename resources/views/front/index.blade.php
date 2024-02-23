@@ -144,7 +144,7 @@
                                 <a href="{{url('/')}}/center-of-excellence/{{$item->slung}}">{{$item->title}}</a>
                             </h4>
                             <div class="post-text">
-                                <p style="min-height:102px;">
+                                <p style="min-height:150px;">
                                     {{$item->meta}}
                                 </p>
                             </div>
@@ -358,7 +358,7 @@
             <!-- Divider Ends -->
             <div class="row latest-posts-content">
                 <?php
-                     $Blog = DB::table('blogs')->get();
+                     $Blog = DB::table('blogs')->limit('3')->OrderBy('id','DESC')->get();
                 ?>
                 @foreach ($Blog as $blog)
                     <!-- Article Starts -->

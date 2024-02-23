@@ -18,7 +18,7 @@
                 <!-- Breadcrumb Starts -->
                 <ul class="breadcrumb">
                     <li><a href="{{url('/')}}"> home</a></li>
-                    <li><a href="{{url('/')}}/center-of-excellence"> Center of Excellence</a></li>
+                    <li><a href="{{url('/')}}/center-of-excellence"> Pr And Communication Services </a></li>
                     <li>{{$Ser->title}}</li>
                 </ul>
                 <!-- Breadcrumb Ends -->
@@ -26,7 +26,7 @@
         </div>
     </section>
     <!-- Banner Ends -->
-    <section class="project" style="padding: 100px;">
+    <section class="project" style="padding: 80px;">
         <div class="row services-box">
             <!-- Service Item Starts -->
             <div class="col-sm-12 col-md-12 col-xs-12 text-center" style="border:3px solid #daa520; padding:10px; border-radius:10px;">
@@ -40,7 +40,7 @@
                             <a href="{{url('/')}}/center-of-excellence/{{$Ser->slung}}">{{$Ser->title}}</a>
                         </h4>
                         <div class="post-text"  style="list-style: none !important">
-                            <p>
+                            <p style="list-style: none !important">
                                 {!! html_entity_decode($Ser->content, ENT_QUOTES, 'UTF-8') !!}
                             </p>
                         </div>

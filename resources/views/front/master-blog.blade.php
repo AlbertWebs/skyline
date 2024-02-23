@@ -7,16 +7,16 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     @foreach ($Blog as $blog)
-    <title>{{$blog->title}} - Skyline PR and Corporate communications  Agency</title>
+    <title>{{$blog->title}} - Skyline Pr And Consultancy</title>
     <meta name="description" content="Corporate Branding and Management, Advocacy Communications, Brand Communication and Publicity, Media Relations,
             public relations training and education and More">
     <link rel="canonical" href="skylinepublicrelations.com/articles/{{$blog->slung}}"/>
     <meta property="og:description" content="{{$blog->meta}}" />
-    <meta property="og:title" content="{{$blog->title}} - Skyline PR and Corporate communications  Agency" />
+    <meta property="og:title" content="{{$blog->title}} - Skyline Pr And Consultancy" />
     <meta property="og:type" content="articles" />
     <meta property="og:url" content="skylinepublicrelations.com/articles/{{$blog->slung}}" />
     <meta property="og:image" content="{{url('/')}}/uploads/blog/{{$blog->image}}" />
-    <meta name="twitter:title" content="{{$blog->title}} - Skyline PR and Corporate communications  Agency" />
+    <meta name="twitter:title" content="{{$blog->title}} - Skyline Pr And Consultancy" />
     <meta name="twitter:site" content="@skylinePr" />
     @endforeach
 
@@ -111,7 +111,7 @@
                 <div class="row">
                     <!-- Footer Widget Starts -->
                     <div class="col-xs-6 col-sm-4 col-md-2">
-                        <h4>Skyline PR and Corporate communications  Agency</h4>
+                        <h4>Skyline Pr And Consultancy</h4>
                         <div class="menu">
                             <ul>
                                 <li><a href="{{url('/')}}">Home</a></li>
@@ -191,7 +191,7 @@
                     <div class="row">
                         <div class="col-xs-12">
                             <!-- Copyright Text Starts -->
-                            <p class="text-center">Copyright © {{date('Y')}} Skyline PR and Corporate communications  Agency All Rights Reserved | Powered By <a href="https://designekta.com" target="_blank">Designekta Studios</a></p>
+                            <p class="text-center">Copyright © {{date('Y')}} Skyline Pr And Consultancy All Rights Reserved | Powered By <a href="https://designekta.com" target="_blank">Designekta Studios</a></p>
                             <!-- Copyright Text Ends -->
                         </div>
                     </div>
