@@ -14,7 +14,7 @@
         </ul>
     </li>
     {{--  --}}
-    <li><a href="{{url('/')}}/center-of-excellence"><i class="fa fa-user"></i> Pr And Communication Services </a></li>
+    <li><a href="{{url('/')}}/center-of-excellence"><i class="fa fa-user"></i> Our Services </a></li>
     <li><a href="{{url('/')}}/why-pr"><i class="fa fa-check-circle "></i> Why PR</a></li>
     <li><a href="{{url('/')}}/articles"><i class="fa fa-edit"></i> News</a></li>
     <li><a href="{{url('/')}}/contact-us"><i class="fa fa-envelope"></i> Contact Us</a></li>

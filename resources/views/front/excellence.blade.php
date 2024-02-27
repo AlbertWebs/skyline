@@ -28,7 +28,7 @@
             <!-- Main Heading Starts -->
             <div class="text-center top-text">
                 {{-- <h1>Center of <span>Excellence</span></h1> --}}
-                <h4>Changing businesses conversations through PR</h4>
+                <h4>Pr And Communication Services</h4>
             </div>
             <!-- Main Heading Starts -->
 
@@ -44,7 +44,60 @@
             <!-- Divider Ends -->
             <!-- Services Starts -->
             <div class="row services-box" style="margin:0 auto !important">
-                <?php $Services = DB::table('services')->get(); ?>
+                <?php $Services = DB::table('services')->where('pr','1')->get(); ?>
+                @foreach ($Services as $item)
+                <!-- Service Item Starts -->
+                <div class="col-sm-4 col-md-4 col-xs-12 text-center" style="border:3px solid #daa520; padding:10px; border-radius:10px;">
+                    <div class="latest-post">
+                        <!-- Featured Image Starts -->
+                        <a class="img-thumb" href="{{url('/')}}/center-of-excellence/{{$item->slung}}"><img style="min-height: 245px;" class="img-responsive" src="{{url('/')}}/uploads/services/{{$item->image}}" alt="img"></a>
+                        <!-- Featured Image Ends -->
+                        <!-- Article Content Starts -->
+                        <div class="post-body">
+                            <h4 class="post-title" style="min-height:40px;">
+                                <a href="{{url('/')}}/center-of-excellence/{{$item->slung}}">{{$item->title}}</a>
+                            </h4>
+                            <div class="post-text">
+                                <p style="min-height:150px;">
+                                    {{$item->meta}}
+                                </p>
+                            </div>
+                        </div>
+
+                        <a style="color:#23527c" class="custom-button" href="{{url('/')}}/center-of-excellence/{{$item->slung}}">Learn More</a>
+                        <!-- Article Content Ends -->
+                    </div>
+                </div>
+                <!-- Service Item Ends -->
+                @endforeach
+
+            </div>
+            <!-- Services Ends -->
+
+
+        </div>
+
+        <div class="container">
+            <!-- Main Heading Starts -->
+            <div class="text-center top-text">
+                {{-- <h1>Center of <span>Excellence</span></h1> --}}
+                <h4>Other Services</h4>
+            </div>
+            <!-- Main Heading Starts -->
+
+            <!-- Divider Starts -->
+            <div class="divider text-center">
+                <span class="outer-line"></span>
+                <span class="fa fa-cogs" aria-hidden="true"></span>
+                <span class="outer-line"></span>
+            </div>
+            <p>
+                <br>
+            </p>
+            <!-- Divider Ends -->
+            <!-- Services Starts -->
+            <div class="row services-box" style="margin:0 auto !important">
+                <?php $Services = DB::table('services')->where('pr','0')->get(); ?>
                 @foreach ($Services as $item)
                 <!-- Service Item Starts -->
                 <div class="col-sm-4 col-md-4 col-xs-12 text-center" style="border:3px solid #daa520; padding:10px; border-radius:10px;">
