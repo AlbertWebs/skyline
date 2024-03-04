@@ -28,7 +28,7 @@ class HomeController extends Controller
     }
 
     public function excellence(){
-        $title = " Pr And Communication Services ";
+        $title = " PR And Communication Services ";
         return view('front.excellence', compact('title'));
     }
 
