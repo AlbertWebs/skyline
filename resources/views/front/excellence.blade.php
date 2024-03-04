@@ -28,7 +28,7 @@
             <!-- Main Heading Starts -->
             <div class="text-center top-text">
                 {{-- <h1>Center of <span>Excellence</span></h1> --}}
-                <h4>PR and Communication Services</h4>
+                <h4>Our Services</h4>
             </div>
             <!-- Main Heading Starts -->
 
@@ -81,7 +81,8 @@
             <!-- Main Heading Starts -->
             <div class="text-center top-text">
                 {{-- <h1>Center of <span>Excellence</span></h1> --}}
-                <h4>Other Services</h4>
+                <h4>PR AND COMMUNICATION SERVICES
+                </h4>
             </div>
             <!-- Main Heading Starts -->
 
